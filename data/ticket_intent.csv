@@ -1,0 +1,364 @@
+event_id,customer_id,event_date,intent_score,intent_category,intent_reason
+5002,1001,2025-12-30,0.0,No signal,Customer reports issue was resolved quickly and satisfactorily without complications.
+5003,1001,2026-01-06,0.0,No signal,Customer praised support experience; no mention of dissatisfaction or switching intent.
+5004,1002,2026-04-16,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to contract concerns.
+5006,1002,2026-06-25,1.0,Strong signal,Repeated unresolved issues indicate frustration with service quality and support effectiveness.
+5009,1003,2026-07-04,0.5,Mild signal,Customer inquiring about billing impact suggests concern about service value and potential dissatisfaction.
+5013,1004,2024-09-18,0.5,Mild signal,"Customer questioned contract terms, indicating potential confusion about commitment or value proposition."
+5014,1004,2025-03-12,0.0,No signal,Customer praised support quality and resolution; no mention of dissatisfaction or switching intent.
+5015,1004,2025-11-03,0.5,Mild signal,"Price increase concern raised, though resolved. Price sensitivity is churn risk factor."
+5017,1005,2026-06-19,0.0,No signal,Customer praised support quality and resolution; no mention of dissatisfaction or switching intent.
+5018,1005,2026-07-07,0.0,No signal,"Customer had technical issue, received explanation, and appeared satisfied with resolution."
+5019,1006,2026-03-26,1.0,Strong signal,Multiple unresolved contacts indicate service failure; escalation suggests frustration threshold approaching churn risk.
+5020,1006,2026-05-23,1.0,Strong signal,Long-standing customer expressing feeling undervalued suggests dissatisfaction and potential switching consideration.
+5026,1008,2026-06-26,0.5,Mild signal,"Repeated contact about same issue suggests frustration, but no explicit mention of switching."
+5027,1008,2026-07-02,0.5,Mild signal,"Hardware issues can drive churn if unresolved quickly, but single complaint insufficient for strong signal."
+5030,1009,2026-02-09,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5032,1010,2026-01-08,0.5,Mild signal,"Customer inquired about better plans, suggesting openness to alternatives."
+5034,1010,2026-06-18,0.5,Mild signal,Unresolved technical issue after first attempt may prompt exploration of alternatives.
+5045,1014,2026-03-25,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5046,1014,2026-05-18,0.5,Mild signal,"Customer dissatisfied with service handling, but no explicit mention of switching intent."
+5047,1014,2026-06-05,0.5,Mild signal,Refund delay indicates service/billing issues that could prompt provider consideration.
+5048,1015,2026-06-12,0.0,No signal,Customer praised support quality and resolution speed; no mention of dissatisfaction or switching intent.
+5050,1015,2026-06-21,0.5,Mild signal,Customer seeking clarity on charges; unresolved billing issues can drive churn consideration.
+5051,1016,2026-05-14,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or switching intent.
+5056,1017,2024-10-07,0.5,Mild signal,Unresolved technical issue with dissatisfaction suggests potential frustration but no explicit switching intent.
+5058,1017,2026-06-04,0.5,Mild signal,Unresolved technical issue after first attempt suggests potential frustration with service quality.
+5059,1018,2025-03-27,0.5,Mild signal,Refund issue indicates service problem; satisfaction contingent on explanation rather than resolution.
+5065,1020,2024-10-28,0.5,Mild signal,"Price increase concern raised, though resolved. Price sensitivity is churn risk factor."
+5070,1021,2026-01-05,1.0,Strong signal,"Customer explicitly inquired about cancellation process following price increase, indicating serious consideration of leaving."
+5072,1021,2026-06-16,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for issues."
+5074,1022,2026-05-19,0.5,Mild signal,"Price increase concern raised, though resolved. Price sensitivity is churn risk factor."
+5076,1023,2020-11-19,0.5,Mild signal,Price increase complaint with failed resolution attempt indicates dissatisfaction but no explicit switching intent mentioned.
+5078,1023,2021-11-25,0.5,Mild signal,"Repeated issue with same equipment suggests frustration, but no explicit mention of switching."
+5080,1023,2023-01-23,0.5,Mild signal,"Repeated issue suggests unresolved problem, increasing frustration and switching risk."
+5082,1023,2023-08-23,0.5,Mild signal,Customer dissatisfaction with issue resolution may prompt consideration of alternatives.
+5083,1023,2023-11-05,0.5,Mild signal,"Repeated contact about same issue suggests frustration, but no explicit mention of switching."
+5084,1023,2024-09-17,0.5,Mild signal,Recurring issue suggests frustration with service quality and reliability.
+5085,1023,2025-11-18,0.5,Mild signal,Confusion about plan inclusions suggests potential dissatisfaction with service clarity and understanding.
+5093,1024,2023-07-12,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5096,1024,2024-08-24,0.5,Mild signal,Dissatisfaction with outage handling indicates service quality concerns that could prompt provider evaluation.
+5098,1024,2025-10-05,0.5,Mild signal,Unresolved refund issue after failed fix attempt indicates service dissatisfaction and frustration.
+5100,1025,2026-06-12,0.5,Mild signal,"Customer experienced service issues (long wait times) that required follow-up, indicating dissatisfaction."
+5101,1025,2026-06-13,0.5,Mild signal,"Customer needed clarification on contract terms, suggesting possible confusion about commitment or conditions."
+5106,1027,2023-02-24,0.5,Mild signal,Customer inquiring about billing impact of service issues suggests concern about value and costs.
+5107,1027,2024-04-23,0.5,Mild signal,Refund issue indicates service/billing problems; dissatisfaction risk despite current satisfaction.
+5108,1027,2024-10-25,0.5,Mild signal,Unresolved refund issue indicates service dissatisfaction; financial problems may prompt switching.
+5110,1027,2025-09-05,0.5,Mild signal,"Customer experienced dropped calls issue, indicating service quality problems that could prompt switching."
+5115,1028,2026-01-01,0.5,Mild signal,"Hardware issues can drive switching if not resolved quickly, but single problem doesn't indicate high churn risk."
+5118,1029,2026-05-14,1.0,Strong signal,Long-standing customer expressing lack of value suggests dissatisfaction and potential churn risk.
+5119,1029,2026-07-07,1.0,Strong signal,Multiple unresolved contacts plus unexpected charges indicate frustration and dissatisfaction with service quality.
+5120,1029,2026-07-09,1.0,Strong signal,Multiple unresolved contacts about same issue indicates frustration and likelihood of switching.
+5122,1030,2024-10-19,0.5,Mild signal,"Customer questioned contract terms, indicating potential confusion about commitment or value proposition."
+5123,1030,2025-05-31,0.0,No signal,Customer praised support quality and resolution speed; no mention of dissatisfaction or switching intent.
+5126,1030,2025-12-09,0.0,No signal,"Customer had technical issue, received explanation, and appeared satisfied with resolution."
+5128,1031,2024-11-11,0.5,Mild signal,Repeated billing issues indicate frustration but no explicit mention of switching intent.
+5129,1031,2024-12-22,0.5,Mild signal,Confusion about plan inclusions suggests potential dissatisfaction with service clarity.
+5130,1031,2025-08-17,0.5,Mild signal,Refund delay indicates service/billing issues that could prompt provider consideration.
+5133,1031,2026-03-24,1.0,Strong signal,Competitor mention combined with service issue indicates active consideration of switching.
+5134,1032,2026-06-05,0.0,No signal,"Customer had technical issue, received explanation, and appeared satisfied with resolution."
+5135,1032,2026-06-06,0.5,Mild signal,"Customer needed clarification on contract terms, suggesting possible confusion about commitment or conditions."
+5136,1032,2026-06-25,0.5,Mild signal,"Customer experienced slow data speeds issue, suggesting service quality concerns despite quick resolution."
+5137,1033,2022-08-18,0.5,Mild signal,"Unresolved billing issue after attempted fix suggests frustration, potential churn risk."
+5143,1033,2025-01-07,0.5,Mild signal,Unresolved technical issue with dissatisfaction suggests potential frustration but no explicit switching intent.
+5146,1034,2026-06-26,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5147,1034,2026-07-05,0.5,Mild signal,"Recurring issue suggests frustration, but no explicit mention of switching intent."
+5150,1035,2026-02-25,0.0,No signal,Customer reports issue was resolved satisfactorily without complications or complaints.
+5152,1036,2024-09-11,0.5,Mild signal,Unresolved technical issue after first attempt may frustrate customer and increase switching consideration.
+5153,1036,2024-12-01,0.5,Mild signal,Unresolved billing issue after failed fix attempt indicates frustration with service quality.
+5155,1036,2025-03-04,0.5,Mild signal,"Billing errors can drive churn, but polite tone suggests engagement with resolution."
+5160,1037,2024-01-26,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5164,1037,2025-07-31,0.5,Mild signal,"Price increase dissatisfaction indicates vulnerability to competitor offers, but no explicit switching intent stated."
+5168,1038,2025-02-27,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for service issues."
+5172,1038,2026-05-11,1.0,Strong signal,Multiple unresolved contacts on billing issue indicates frustration and likelihood of switching.
+5173,1039,2023-11-30,1.0,Strong signal,Repeated unresolved issue after multiple contacts indicates frustration and likelihood of seeking alternative provider.
+5174,1039,2024-12-27,1.0,Strong signal,"""At their limit"" indicates customer is near breaking point and considering alternatives."
+5175,1039,2025-07-16,1.0,Strong signal,Multiple unresolved contacts plus escalation indicates frustration and likelihood of switching.
+5176,1039,2025-08-17,1.0,Strong signal,Multiple unresolved contacts plus unexpected charges indicate frustration with service quality and billing.
+5180,1040,2025-05-25,0.0,No signal,Customer reports issue was resolved satisfactorily without complications or complaints.
+5183,1041,2025-02-09,0.0,No signal,Customer reports issue was resolved quickly and without difficulty.
+5185,1041,2026-05-11,0.5,Mild signal,Dropped calls indicate service quality issues; customer acceptance doesn't eliminate underlying problem.
+5190,1043,2026-06-25,0.0,No signal,Customer praised support quality and speed; no indication of dissatisfaction or switching intent.
+5191,1043,2026-07-08,0.0,No signal,Customer reports issue was resolved satisfactorily without complications or complaints.
+5192,1044,2025-03-14,0.0,No signal,"Customer had technical issue, received explanation, and appeared satisfied with resolution."
+5193,1044,2026-01-22,0.5,Mild signal,Customer inquiring about billing impact of service issues suggests concern about value and cost.
+5194,1044,2026-06-11,0.0,No signal,Customer inquired about charges but raised no complaints or dissatisfaction indicators.
+5197,1045,2022-03-11,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating active consideration of leaving."
+5201,1045,2023-08-13,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and potential churn risk.
+5203,1045,2024-10-08,1.0,Strong signal,Multiple unresolved contacts plus escalation indicates frustration and potential churn risk.
+5205,1045,2026-01-30,1.0,Strong signal,"Customer explicitly states feeling undervalued despite loyalty, indicating dissatisfaction with provider relationship."
+5206,1046,2023-12-01,0.5,Mild signal,Customer inquiring about better plans suggests openness to alternatives or dissatisfaction with current offering.
+5208,1046,2024-10-31,0.5,Mild signal,"Dropped calls indicate service quality issues, which can motivate customers to explore alternatives."
+5209,1046,2025-10-11,1.0,Strong signal,Explicit mention of competitor's cheaper offer indicates active consideration of switching providers.
+5214,1047,2026-04-30,1.0,Strong signal,Repeated calls about same issue indicates unresolved problem and growing frustration with provider.
+5215,1047,2026-06-02,1.0,Strong signal,"Customer explicitly referenced competitor's cheaper offer, indicating active consideration of switching."
+5216,1048,2026-03-31,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for service issues."
+5217,1048,2026-04-24,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and potential churn risk.
+5219,1049,2021-06-22,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating serious consideration of leaving."
+5222,1049,2022-11-07,1.0,Strong signal,Multiple unresolved contacts and escalation indicate frustration with service quality and support effectiveness.
+5227,1049,2024-09-12,1.0,Strong signal,Multiple unresolved contacts and escalation indicate frustration with service quality and support effectiveness.
+5229,1049,2025-03-24,1.0,Strong signal,Customer actively comparing providers indicates serious consideration of switching due to coverage problems.
+5236,1050,2024-08-14,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating active consideration of leaving."
+5240,1050,2026-02-26,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for service issues."
+5246,1051,2025-09-24,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or switching intent.
+5247,1051,2026-01-22,0.0,No signal,Customer's issue was quickly resolved; no dissatisfaction indicators present.
+5248,1051,2026-05-12,0.5,Mild signal,Coverage issues at new address could drive switching if not resolved satisfactorily.
+5249,1052,2022-03-02,1.0,Strong signal,Multiple unresolved contacts and escalation indicate frustration with service recovery process.
+5250,1052,2022-03-18,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for service issues."
+5251,1052,2022-05-26,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to service issues.
+5255,1052,2024-09-18,1.0,Strong signal,"""At their limit"" indicates customer has reached breaking point and may switch providers."
+5259,1052,2026-03-20,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and likelihood of switching.
+5261,1053,2026-05-01,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to contract concerns.
+5265,1054,2026-06-14,0.0,No signal,Customer praised support experience; no mention of dissatisfaction or switching intent.
+5268,1055,2024-03-02,0.5,Mild signal,Unresolved issue plus support friction may prompt consideration of alternatives.
+5270,1055,2025-07-03,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5272,1055,2025-08-24,0.5,Mild signal,Dissatisfaction with outage handling indicates service quality concerns that could prompt provider evaluation.
+5274,1056,2026-02-02,0.5,Mild signal,Customer inquiring about refund impact suggests concern about billing and service value.
+5275,1056,2026-04-14,0.0,No signal,Customer reports issue resolved successfully with no mention of dissatisfaction or alternatives.
+5277,1057,2026-05-10,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or switching intent.
+5282,1058,2026-02-07,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5283,1059,2026-03-20,0.5,Mild signal,"Customer dissatisfaction with service handling may increase churn risk, though not explicitly stated."
+5284,1059,2026-05-20,0.5,Mild signal,Dissatisfaction with outage handling indicates service quality concerns that could prompt switching.
+5287,1060,2020-10-23,0.5,Mild signal,"Customer inquired about price increase impact, suggesting price sensitivity and consideration of alternatives."
+5288,1060,2021-06-10,0.0,No signal,Customer's issue was resolved quickly and satisfactorily with no complications.
+5290,1060,2023-05-24,0.5,Mild signal,Customer confusion about plan inclusions indicates potential dissatisfaction with clarity and communication.
+5293,1060,2023-08-27,0.5,Mild signal,Customer seeking clarity on charges; unresolved billing issues can drive churn consideration.
+5297,1060,2026-04-03,0.0,No signal,Customer issue was resolved satisfactorily; no mention of dissatisfaction or switching intent.
+5298,1061,2020-09-02,0.5,Mild signal,"Network outage indicates service reliability concerns, potential dissatisfaction despite apparent satisfaction."
+5299,1061,2021-05-07,0.5,Mild signal,Refund issue indicates service problem; satisfaction contingent on explanation rather than resolution.
+5300,1061,2021-10-25,0.0,No signal,Customer praised support quality; no mention of dissatisfaction or switching intent.
+5305,1061,2024-01-06,0.5,Mild signal,"Customer experienced dropped calls issue, indicating service quality problems that could drive switching."
+5307,1061,2025-03-20,0.5,Mild signal,Customer inquiring about refund impact suggests concern about billing and service value.
+5308,1061,2025-09-11,0.5,Mild signal,"Customer experienced slow data speeds issue, suggesting service quality concerns despite quick resolution."
+5310,1062,2025-12-06,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and likelihood of switching.
+5312,1062,2026-06-11,1.0,Strong signal,"Customer explicitly states feeling undervalued despite loyalty, indicating dissatisfaction with provider relationship."
+5317,1064,2025-08-09,0.5,Mild signal,Customer inquiring about billing impact suggests concern about service value and potential dissatisfaction.
+5318,1064,2025-09-11,0.0,No signal,Customer reports issue was resolved quickly and easily with no complications.
+5321,1065,2026-07-02,0.0,No signal,"Customer had technical issue, received explanation, and appeared satisfied with resolution."
+5324,1066,2026-06-08,0.5,Mild signal,Billing issues can indicate dissatisfaction; unresolved charges may prompt provider comparison.
+5325,1067,2026-04-23,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for service issues."
+5333,1069,2024-12-25,0.5,Mild signal,"Repeated issue with same equipment suggests frustration, but no explicit mention of switching."
+5334,1069,2025-02-05,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5335,1069,2025-08-25,0.5,Mild signal,Unresolved technical issue after first attempt may prompt consideration of alternatives.
+5338,1070,2024-07-07,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to service issues.
+5341,1070,2026-02-27,1.0,Strong signal,Customer explicitly asked about cancellation process after experiencing service failure and refund delay.
+5342,1071,2025-10-14,1.0,Strong signal,"Customer explicitly stated they are actively comparing providers, indicating serious consideration of switching."
+5349,1073,2026-05-30,0.0,No signal,Customer seeks clarification on outage; no mention of dissatisfaction or alternatives.
+5351,1073,2026-06-24,0.0,No signal,Issue was resolved successfully; no mention of dissatisfaction or alternative providers.
+5352,1074,2026-03-16,0.0,No signal,Customer reports issue was resolved quickly and without difficulty.
+5353,1074,2026-04-17,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or provider alternatives.
+5354,1074,2026-06-27,0.5,Mild signal,"Customer questioned contract terms, indicating potential confusion about commitment or value proposition."
+5357,1075,2026-06-27,1.0,Strong signal,Long-standing customer feeling undervalued is a key churn risk indicator.
+5360,1076,2026-06-18,1.0,Strong signal,Repeated unresolved issue after multiple contacts indicates frustration and likelihood of switching.
+5361,1077,2025-11-17,1.0,Strong signal,Multiple unresolved contacts and escalation indicate frustration with service quality and support effectiveness.
+5368,1079,2024-12-22,0.0,No signal,Customer's issue was quickly resolved; no dissatisfaction or switching intent indicated.
+5369,1079,2025-03-20,0.0,No signal,Customer praised support quality and resolved confusion; no indication of dissatisfaction or switching intent.
+5371,1079,2025-12-30,0.0,No signal,Customer seeks clarification on outage; no mention of dissatisfaction or alternatives.
+5375,1080,2026-06-17,0.5,Mild signal,"Price increase concern raised, though resolved. Price sensitivity is churn risk factor."
+5378,1081,2026-02-07,0.5,Mild signal,Customer questioning plan value and exploring alternatives suggests potential dissatisfaction with current offering.
+5380,1082,2025-01-23,0.5,Mild signal,Billing issues can indicate dissatisfaction; unresolved charges may prompt provider comparison.
+5381,1082,2025-02-06,0.0,No signal,Customer reports issue resolved successfully with no mention of dissatisfaction or alternatives.
+5382,1082,2025-12-03,0.5,Mild signal,Customer seeking clarity on charges; unresolved billing issues can drive provider switching.
+5389,1083,2024-09-06,0.0,No signal,Customer praised support quality; no mention of dissatisfaction or switching intent.
+5391,1083,2025-09-13,0.0,No signal,Customer's issue was resolved quickly and satisfactorily with no complications.
+5392,1084,2026-04-12,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for service issues."
+5393,1084,2026-05-01,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating active consideration of leaving."
+5396,1085,2026-07-04,0.5,Mild signal,Dropped calls indicate service quality issues; customer acceptance doesn't eliminate underlying problem.
+5397,1085,2026-07-09,0.0,No signal,"Customer praised quick and easy support experience, indicating satisfaction with service."
+5399,1086,2026-02-28,0.0,No signal,Customer resolved issue quickly with no complications or unmet needs indicated.
+5400,1086,2026-03-30,0.5,Mild signal,Long wait times are a service pain point that could drive switching if unresolved.
+5402,1087,2024-10-03,0.0,No signal,Customer resolved confusion successfully; no mention of dissatisfaction or alternatives.
+5404,1087,2025-01-21,0.5,Mild signal,Customer inquiring about billing impact suggests concern about service value and costs.
+5406,1087,2026-03-23,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or provider alternatives.
+5407,1088,2026-05-27,0.5,Mild signal,Unresolved technical issue after first attempt may prompt consideration of alternatives.
+5408,1088,2026-05-28,0.5,Mild signal,Unresolved technical issue after first attempt may frustrate customer and increase switching consideration.
+5413,1090,2026-06-09,1.0,Strong signal,Multiple unresolved contacts plus escalation indicates frustration and likelihood of switching.
+5415,1090,2026-07-04,1.0,Strong signal,Multiple unresolved contacts on billing issue indicates frustration and potential churn risk.
+5420,1092,2024-11-22,0.5,Mild signal,Customer inquiring about billing impact suggests concern about service value and costs.
+5422,1092,2026-01-10,0.5,Mild signal,"Customer inquired about price increase impact, suggesting price sensitivity and consideration of alternatives."
+5423,1092,2026-01-27,0.5,Mild signal,Customer inquiring about billing impact of service issues suggests concern about value and potential dissatisfaction.
+5424,1092,2026-07-01,0.0,No signal,Customer praised support quality and speed; positive experience indicates satisfaction.
+5441,1096,2024-05-18,0.5,Mild signal,Long wait times are a service pain point that could drive switching if unresolved.
+5443,1096,2025-10-31,0.5,Mild signal,"Customer experienced service failure (delayed refund) requiring follow-up, indicating potential dissatisfaction."
+5446,1097,2025-03-31,0.0,No signal,"Customer had technical issue, received explanation, and appeared satisfied with resolution."
+5447,1097,2025-04-24,0.0,No signal,Customer praised support quality and speed; no indication of dissatisfaction or switching intent.
+5448,1097,2025-05-23,0.5,Mild signal,"Customer experienced price increase issue, suggesting dissatisfaction despite positive support experience."
+5449,1097,2026-01-01,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or provider alternatives.
+5451,1098,2026-05-21,0.0,No signal,Customer reports issue resolved successfully with no mention of dissatisfaction or alternatives.
+5453,1099,2026-01-12,1.0,Strong signal,Long-standing customer feels undervalued despite loyalty; price increase triggers consideration of alternatives.
+5455,1099,2026-07-09,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating active consideration of leaving."
+5457,1100,2024-10-25,0.5,Mild signal,Unresolved technical issue after first attempt may prompt exploration of alternatives.
+5458,1100,2025-08-22,0.5,Mild signal,Coverage issues at new address may prompt provider comparison if not resolved quickly.
+5462,1101,2023-09-17,0.5,Mild signal,"Multiple unresolved contacts indicate frustration, but escalation shows engagement with resolution process."
+5473,1103,2026-04-12,0.5,Mild signal,"Customer had recurring dropped calls issue requiring follow-up, indicating service reliability concerns."
+5475,1104,2026-06-09,0.5,Mild signal,Long wait times are a service quality issue that could motivate switching if unresolved.
+5478,1105,2024-10-20,1.0,Strong signal,Repeated unresolved issue after multiple contacts indicates service failure and customer frustration.
+5479,1105,2024-11-30,1.0,Strong signal,"Customer explicitly stated they are actively comparing providers, indicating serious consideration of switching."
+5480,1105,2025-02-18,1.0,Strong signal,"""At their limit"" indicates customer is near breaking point and considering alternatives."
+5483,1106,2021-01-22,1.0,Strong signal,Multiple unresolved contacts plus escalation indicates frustration and potential churn risk.
+5487,1106,2023-12-15,1.0,Strong signal,"Customer stated they're ""at their limit,"" indicating tolerance threshold exceeded and potential departure risk."
+5488,1106,2024-02-11,1.0,Strong signal,"""At their limit"" indicates customer is near breaking point and considering alternatives."
+5489,1106,2024-07-19,1.0,Strong signal,"Customer explicitly stated they're ""at their limit,"" indicating potential churn risk."
+5491,1106,2025-02-02,0.5,Mild signal,"Multiple unresolved contacts and escalation indicate frustration, but no explicit switching intent mentioned."
+5492,1106,2025-02-25,1.0,Strong signal,Multiple unresolved contacts and escalation indicate frustration with service reliability and support responsiveness.
+5495,1107,2021-09-01,0.0,No signal,Customer praised support experience as quick and easy; no indication of switching intent.
+5498,1107,2023-02-14,0.5,Mild signal,Price increase concerns can motivate switching; customer seeking clarity suggests dissatisfaction.
+5500,1107,2023-08-24,0.5,Mild signal,"Customer inquired about contract terms affecting billing, suggesting uncertainty about service value."
+5501,1107,2024-01-07,0.5,Mild signal,Customer inquiring about billing impact of service delays suggests concern about value received.
+5505,1107,2025-09-21,0.5,Mild signal,"Customer had recurring dropped calls issue requiring follow-up, indicating service reliability concerns."
+5506,1107,2025-10-23,0.0,No signal,Issue was resolved successfully; no mention of dissatisfaction or alternative providers.
+5508,1108,2026-02-08,0.0,No signal,Customer indicates issue was resolved satisfactorily; no mention of dissatisfaction or alternatives.
+5509,1108,2026-03-12,0.0,No signal,Customer seeks account access clarification; no mention of dissatisfaction or alternatives.
+5513,1109,2023-08-28,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5517,1109,2026-01-01,0.5,Mild signal,Account access issues with unsatisfactory resolution may prompt consideration of alternatives.
+5518,1109,2026-04-15,0.5,Mild signal,"Unresolved billing issue indicates service dissatisfaction, potential churn risk factor."
+5523,1111,2021-01-31,0.0,No signal,Customer praised support experience; no mention of dissatisfaction or switching intent.
+5525,1111,2021-12-20,0.0,No signal,Customer praised support quality and resolution; no indication of dissatisfaction or switching intent.
+5527,1111,2022-02-08,0.5,Mild signal,Customer inquiring about refund impact suggests concern about billing and service value.
+5530,1111,2023-04-03,0.0,No signal,Customer resolved confusion successfully; no mention of dissatisfaction or alternatives.
+5536,1112,2026-06-03,0.5,Mild signal,Customer raised performance issue but appeared satisfied with explanation; retention risk unclear.
+5537,1112,2026-06-17,0.5,Mild signal,Customer inquiring about billing impact suggests concern about costs and service value.
+5538,1113,2025-04-06,0.5,Mild signal,Customer confused about plan inclusions; uncertainty about billing may indicate dissatisfaction with clarity.
+5540,1113,2026-05-17,0.5,Mild signal,"Customer experienced dropped calls issue, indicating service quality problems that could drive switching."
+5543,1114,2024-09-27,0.5,Mild signal,Confusion about plan inclusions and dissatisfaction suggest potential vulnerability to competitor offers.
+5546,1114,2026-02-25,0.5,Mild signal,Customer questioning price increase and exploring alternatives suggests openness to switching if needs unmet.
+5549,1115,2024-06-22,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for issues."
+5551,1115,2025-03-21,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and potential churn risk.
+5558,1117,2024-06-01,1.0,Strong signal,"Customer explicitly comparing providers due to service dissatisfaction, indicating active consideration of switching."
+5560,1117,2025-05-26,1.0,Strong signal,"""At their limit"" indicates customer has reached tolerance threshold for service issues."
+5565,1118,2022-01-03,1.0,Strong signal,"Customer explicitly inquired about cancellation process following price increase, indicating serious consideration of leaving."
+5566,1118,2022-03-29,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and likelihood of switching.
+5568,1118,2023-07-01,1.0,Strong signal,Multiple unresolved contacts on billing issue indicates frustration and potential churn risk.
+5569,1118,2024-04-01,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating active consideration of leaving."
+5575,1118,2025-09-07,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and likelihood of switching.
+5579,1119,2026-03-01,0.5,Mild signal,"Repeated contact about same issue suggests frustration, but no explicit mention of switching."
+5580,1120,2025-01-04,0.5,Mild signal,Customer confusion about plan inclusions indicates potential dissatisfaction with clarity and communication.
+5582,1120,2025-07-31,0.5,Mild signal,Long wait times are a service pain point that could drive switching if unresolved.
+5584,1120,2025-11-19,0.0,No signal,Customer inquired about charges but raised no complaints or dissatisfaction indicators.
+5587,1121,2025-11-09,0.5,Mild signal,Customer dissatisfaction with contract handling could indicate vulnerability to competitor offers.
+5589,1121,2026-03-12,0.5,Mild signal,Unresolved technical issue after first attempt may prompt exploration of alternatives.
+5591,1122,2025-11-02,0.0,No signal,Customer seeks clarification on outage; no mention of dissatisfaction or alternatives.
+5592,1122,2026-04-06,0.0,No signal,Customer issue was resolved satisfactorily; no mention of dissatisfaction or switching intent.
+5593,1122,2026-04-24,0.5,Mild signal,"Customer experienced service failure (delayed refund) requiring follow-up, indicating potential dissatisfaction."
+5595,1123,2026-02-01,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5598,1124,2026-06-30,0.5,Mild signal,Long wait times are a service quality issue that could motivate switching if unresolved.
+5603,1126,2024-11-26,1.0,Strong signal,Multiple unresolved contacts plus price increase escalation indicates frustration and potential churn risk.
+5604,1126,2024-12-31,1.0,Strong signal,"""At their limit"" indicates customer is near breaking point and considering alternatives."
+5605,1126,2025-10-04,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to service failure.
+5606,1126,2026-01-20,1.0,Strong signal,Multiple unresolved contacts and escalation indicate frustration with service recovery process.
+5609,1127,2026-06-30,0.0,No signal,Customer resolved confusion successfully; no mention of dissatisfaction or alternatives.
+5610,1128,2025-04-12,0.0,No signal,Customer reports issue resolved successfully with no mention of dissatisfaction or alternatives.
+5611,1128,2026-01-16,0.0,No signal,Customer accepted explanation; no indication of dissatisfaction or switching intent.
+5614,1129,2024-06-30,0.5,Mild signal,"Customer mentioned long wait times as a problem, indicating service dissatisfaction despite resolution."
+5615,1129,2024-10-16,0.5,Mild signal,Customer seeking clarity on contract terms suggests uncertainty about commitment or comparing options.
+5617,1129,2025-07-31,0.0,No signal,Customer praised support quality and resolution speed despite technical issue.
+5618,1129,2026-03-17,0.0,No signal,Customer praised support quality and resolution; no indication of dissatisfaction or switching intent.
+5620,1130,2026-06-07,0.0,No signal,Customer reports issue was resolved quickly and without difficulty.
+5622,1130,2026-07-09,0.0,No signal,Customer praised support quality and resolved confusion; no indication of dissatisfaction or switching intent.
+5625,1131,2026-07-07,1.0,Strong signal,"Customer explicitly stated they are actively comparing providers, indicating serious consideration of switching."
+5628,1132,2025-04-20,0.5,Mild signal,Customer proactively inquiring about coverage issues at new address suggests potential dissatisfaction.
+5630,1132,2025-10-28,0.0,No signal,Customer reports issue was resolved quickly and without difficulty.
+5632,1133,2024-05-31,0.0,No signal,Customer accepted explanation; no indication of dissatisfaction or switching intent.
+5636,1133,2026-01-15,0.5,Mild signal,Customer seeking clarity on contract terms suggests uncertainty about commitment or comparing options.
+5639,1134,2026-05-18,0.5,Mild signal,Customer inquiring about billing impact of service issues suggests concern about value and cost-effectiveness.
+5642,1135,2023-10-17,1.0,Strong signal,"Customer explicitly referenced competitor's cheaper offer, indicating active consideration of switching."
+5646,1135,2025-11-18,0.5,Mild signal,"Customer inquired about better plans, suggesting openness to alternatives or upgrades."
+5648,1136,2026-06-26,0.0,No signal,Customer resolved confusion successfully; no mention of dissatisfaction or alternatives.
+5650,1136,2026-07-06,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or provider alternatives.
+5652,1137,2026-06-16,0.5,Mild signal,Repeated contact on same issue suggests frustration with service clarity and support effectiveness.
+5655,1138,2026-05-12,1.0,Strong signal,Repeated unresolved issues indicate frustration and likelihood of seeking alternative providers.
+5657,1139,2026-05-14,0.5,Mild signal,Customer inquiring about better plans suggests dissatisfaction but not definitive switching intent.
+5658,1139,2026-06-03,0.5,Mild signal,Repeated contact on same issue suggests frustration with service clarity and support effectiveness.
+5660,1140,2024-03-02,0.0,No signal,Customer's issue was quickly resolved; no dissatisfaction indicators present.
+5663,1140,2025-03-26,0.0,No signal,"Customer praised quick and easy support experience, indicating satisfaction with service."
+5664,1140,2026-02-07,0.0,No signal,Issue was resolved successfully; no mention of dissatisfaction or alternative providers.
+5668,1141,2026-01-08,0.5,Mild signal,App crashes are functional issues that may drive switching if unresolved despite explanation.
+5670,1141,2026-02-07,0.5,Mild signal,Customer confusion about plan inclusions indicates potential dissatisfaction with clarity and communication.
+5671,1142,2024-12-05,0.0,No signal,Customer's issue was quickly resolved; no dissatisfaction indicators present.
+5672,1142,2024-12-13,0.0,No signal,Customer seeks account access help; no mention of dissatisfaction or provider alternatives.
+5675,1143,2025-08-25,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to service failure.
+5680,1144,2024-12-03,0.0,No signal,Customer reports issue resolved successfully with no mention of dissatisfaction or alternatives.
+5681,1144,2024-12-20,0.5,Mild signal,Customer raised performance issue but appeared satisfied with explanation; may reconsider if problem persists.
+5683,1144,2025-11-30,0.5,Mild signal,Customer inquiring about refund impact suggests concern about billing and service value.
+5685,1145,2026-06-24,0.5,Mild signal,"Customer questioned charges and inquired about alternative plans, suggesting cost concerns."
+5687,1145,2026-07-09,0.5,Mild signal,Price increase complaint with failed resolution attempt indicates dissatisfaction but no explicit switching intent mentioned.
+5697,1149,2025-08-13,0.5,Mild signal,"Repeated issue suggests frustration with service reliability, potential churn risk."
+5699,1149,2026-04-19,0.5,Mild signal,"Customer experienced billing issue and initial resolution failed, indicating service reliability concerns."
+5703,1151,2025-08-19,0.5,Mild signal,Unresolved refund issue indicates service dissatisfaction; may explore alternatives if not resolved.
+5709,1152,2024-08-15,0.0,No signal,Customer reports issue was resolved quickly and satisfactorily without complications.
+5710,1152,2024-09-23,0.5,Mild signal,Customer inquiring about billing impact of service delays suggests concern about value received.
+5714,1152,2025-10-25,0.0,No signal,Customer reports issue was resolved satisfactorily without complications or complaints.
+5715,1153,2024-07-31,1.0,Strong signal,Customer actively comparing providers indicates serious consideration of switching due to coverage problems.
+5718,1153,2025-10-21,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating active consideration of leaving."
+5721,1154,2025-10-07,0.5,Mild signal,"Multiple unresolved contacts indicate frustration, but no explicit mention of switching intent."
+5723,1154,2026-05-24,1.0,Strong signal,Multiple unresolved contacts plus escalation indicates frustration and likelihood of switching.
+5724,1155,2021-02-05,0.5,Mild signal,"Refund issue indicates service dissatisfaction, though resolution appears to have satisfied them temporarily."
+5725,1155,2021-04-15,0.5,Mild signal,Coverage issues at new address could prompt provider comparison if not resolved satisfactorily.
+5728,1155,2022-11-29,0.0,No signal,Customer praised support quality and resolution; no indication of dissatisfaction or switching intent.
+5729,1155,2022-12-14,0.0,No signal,Customer praised support quality and speed; no indication of dissatisfaction or switching intent.
+5730,1155,2024-01-21,0.5,Mild signal,Customer inquiring about refund impact suggests concern about billing and service value.
+5734,1155,2026-02-26,0.5,Mild signal,"Customer inquired about price increase impact, suggesting price sensitivity and consideration of alternatives."
+5735,1155,2026-06-30,0.5,Mild signal,Customer inquiring about billing impact of faulty equipment suggests concern about costs and service value.
+5737,1156,2025-04-15,1.0,Strong signal,"Customer explicitly states feeling undervalued as long-standing customer, indicating dissatisfaction with loyalty recognition."
+5738,1156,2025-12-11,1.0,Strong signal,"Customer stated they're ""at their limit,"" indicating they may leave if issue unresolved."
+5739,1156,2025-12-16,1.0,Strong signal,Multiple unresolved contacts on billing issue indicates frustration and potential churn risk.
+5743,1157,2026-05-02,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5744,1158,2025-08-12,0.5,Mild signal,"Account access issues can drive churn if unresolved, but single technical problem doesn't indicate switching intent."
+5747,1159,2020-08-18,0.5,Mild signal,Dropped calls indicate service quality issues; customer acceptance doesn't eliminate underlying problem.
+5748,1159,2020-09-21,0.5,Mild signal,Customer inquiring about billing impact of service issues suggests concern about value received.
+5754,1159,2025-03-05,0.0,No signal,Customer seeks clarification on outage; no mention of dissatisfaction or alternatives.
+5763,1161,2023-08-03,0.5,Mild signal,"Price increase concern raised, though resolved. Price sensitivity is churn risk factor."
+5772,1162,2025-06-27,0.5,Mild signal,Customer inquiring about billing impact suggests concern about costs and service value.
+5773,1162,2025-09-17,0.0,No signal,Customer reports issue was resolved satisfactorily without complications or complaints.
+5774,1162,2025-12-02,0.0,No signal,Customer reports issue was resolved satisfactorily without complications or complaints.
+5777,1163,2024-12-16,0.5,Mild signal,Customer questioning contract terms suggests uncertainty about commitment and potential dissatisfaction with provider clarity.
+5779,1163,2025-08-06,0.5,Mild signal,"Repeated issue with same equipment suggests frustration, but no explicit mention of switching."
+5780,1163,2026-03-07,0.5,Mild signal,"Repeated issue with same equipment suggests frustration, but no explicit mention of switching."
+5781,1163,2026-07-02,0.5,Mild signal,Customer inquiring about better plans suggests possible dissatisfaction and openness to alternatives.
+5782,1164,2023-04-19,0.5,Mild signal,Unresolved technical issue after first attempt suggests potential frustration with service quality.
+5783,1164,2023-05-07,0.5,Mild signal,App crashes are functional issues that may drive switching if unresolved quickly.
+5784,1164,2023-09-04,0.5,Mild signal,"Customer questioned charges and inquired about alternative plans, suggesting cost concerns."
+5786,1164,2025-02-12,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5787,1164,2025-06-10,0.5,Mild signal,"Customer questioned charges and inquired about alternative plans, suggesting cost concerns."
+5789,1164,2026-05-19,0.5,Mild signal,"Network outage indicates service reliability issues, which can prompt provider consideration."
+5797,1166,2025-04-28,0.5,Mild signal,Billing error plus dissatisfaction with resolution suggests vulnerability to competitor offers.
+5802,1167,2020-12-09,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5803,1167,2021-07-08,0.5,Mild signal,"Customer inquired about better plans, suggesting openness to alternatives."
+5808,1167,2024-09-10,0.5,Mild signal,"Hardware issues can drive switching if not resolved quickly, but single problem doesn't indicate high churn risk."
+5810,1167,2025-01-28,0.5,Mild signal,Repeated contact on same issue suggests unresolved problem and potential frustration with service.
+5812,1167,2026-04-29,0.5,Mild signal,Coverage issues at new address could drive switching if not resolved quickly.
+5813,1168,2023-09-02,0.5,Mild signal,Customer inquiring about billing impact suggests concern about service value and potential dissatisfaction.
+5814,1168,2023-09-19,0.5,Mild signal,Dropped calls indicate service quality issues; customer acceptance doesn't eliminate underlying problem.
+5816,1168,2023-11-24,0.5,Mild signal,Customer proactively inquiring about coverage issues at new address suggests potential dissatisfaction risk.
+5818,1168,2024-01-27,0.0,No signal,"Customer had technical issue, received explanation, and appeared satisfied with resolution."
+5822,1169,2026-06-10,0.5,Mild signal,"Customer experienced slow data speeds issue, suggesting service quality concerns despite quick resolution."
+5824,1170,2023-11-21,0.5,Mild signal,"Network outage indicates service reliability issues, which can prompt provider consideration."
+5827,1170,2026-01-02,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating active consideration of switching providers."
+5829,1170,2026-05-22,0.5,Mild signal,Customer exploring coverage and plan options suggests openness to alternatives.
+5830,1171,2026-06-24,1.0,Strong signal,"Customer referenced competitor's cheaper offer, indicating price sensitivity and active consideration of alternatives."
+5833,1172,2023-01-20,0.5,Mild signal,"Unresolved billing issue after attempted fix suggests frustration, potential churn risk."
+5841,1173,2025-11-02,0.0,No signal,Customer praised support quality and speed; positive experience indicates satisfaction.
+5843,1173,2026-04-26,0.0,No signal,Customer resolved issue quickly without complaint; no indication of dissatisfaction or switching intent.
+5847,1175,2021-12-25,0.5,Mild signal,Unresolved issue plus support friction may prompt exploration of alternatives.
+5848,1175,2022-07-16,1.0,Strong signal,Competitor comparison combined with app issues indicates active consideration of switching providers.
+5851,1175,2023-10-20,0.5,Mild signal,Customer questioning contract terms suggests uncertainty about commitment and potential dissatisfaction with provider clarity.
+5852,1175,2023-12-26,0.5,Mild signal,Dissatisfaction with outage handling indicates service quality concerns that could prompt switching.
+5854,1175,2024-09-13,0.5,Mild signal,"Unresolved issue after first attempt suggests frustration, but no explicit switching intent mentioned."
+5855,1175,2024-11-22,0.5,Mild signal,Customer reporting service quality issues; dissatisfaction with core service may prompt provider evaluation.
+5857,1175,2026-02-17,0.5,Mild signal,"Unresolved billing issue indicates service dissatisfaction, potential churn risk factor."
+5858,1176,2020-12-23,1.0,Strong signal,Repeated unresolved issue after three contacts indicates frustration and likelihood of switching.
+5859,1176,2021-07-09,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to service dissatisfaction.
+5860,1176,2021-09-03,1.0,Strong signal,Multiple unresolved contacts and escalation indicate frustration with service quality and support effectiveness.
+5864,1176,2022-11-13,1.0,Strong signal,"Customer explicitly asked about cancellation process, indicating active consideration of leaving."
+5869,1176,2024-10-08,1.0,Strong signal,Customer explicitly stated they are actively comparing providers due to service issues.
+5871,1177,2020-08-16,0.0,No signal,Customer's issue was resolved quickly and satisfactorily with no complications mentioned.
+5874,1177,2021-07-07,0.5,Mild signal,Customer inquiring about refund impact suggests concern about billing and service value.
+5876,1177,2023-01-15,0.0,No signal,Customer seeks account access help; no mention of dissatisfaction or provider alternatives.
+5877,1177,2023-08-04,0.0,No signal,Customer praised support quality and speed; positive experience suggests satisfaction.
+5879,1177,2023-10-16,0.0,No signal,Customer seeks account access help; no mention of dissatisfaction or provider alternatives.
+5883,1178,2026-05-25,1.0,Strong signal,Competitor comparison combined with app issues indicates active consideration of switching providers.
+5887,1179,2026-06-23,0.0,No signal,Customer confirms issue resolved; no mention of dissatisfaction or provider alternatives.
+5888,1180,2024-02-26,0.5,Mild signal,"Customer inquired about better plans, suggesting openness to alternatives or upgrades."
+5889,1180,2024-03-26,0.5,Mild signal,Unresolved refund issue after failed fix attempt indicates service dissatisfaction and frustration.
+5892,1180,2025-04-06,0.5,Mild signal,"Price increase dissatisfaction indicates vulnerability to competitor offers, but no explicit switching intent stated."
+5893,1180,2025-11-05,0.5,Mild signal,Customer questioning plan value and exploring alternatives suggests potential dissatisfaction with current offering.
