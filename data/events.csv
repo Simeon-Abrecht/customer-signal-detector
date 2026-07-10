@@ -1,0 +1,895 @@
+event_id,customer_id,event_date,signal_type,detail
+5001,1001,2025-10-04,csat_survey,7
+5002,1001,2025-12-30,support_ticket,"Asked a quick question about the app crashing repeatedly, resolved without any fuss."
+5003,1001,2026-01-06,support_ticket,"Called about slow data speeds, said the support experience was quick and easy."
+5004,1002,2026-04-16,support_ticket,Said they're actively comparing providers because of unclear contract terms.
+5005,1002,2026-04-30,billing_event,late_payment
+5006,1002,2026-06-25,support_ticket,Called again about unclear contract terms - this is the third time it hasn't been resolved.
+5007,1003,2026-06-15,csat_survey,8
+5008,1003,2026-06-18,billing_event,on_time_payment
+5009,1003,2026-07-04,support_ticket,"Asked how the app crashing repeatedly would affect their next bill, no complaints raised."
+5010,1004,2024-06-20,billing_event,on_time_payment
+5011,1004,2024-07-20,csat_survey,10
+5012,1004,2024-09-10,csat_survey,8
+5013,1004,2024-09-18,support_ticket,"Mentioned unclear contract terms in passing, seemed satisfied once explained."
+5014,1004,2025-03-12,support_ticket,"Called about trouble accessing their account online, said the support experience was quick and easy."
+5015,1004,2025-11-03,support_ticket,"Mentioned an unexpected price increase in passing, seemed satisfied once explained."
+5016,1005,2026-06-19,csat_survey,10
+5017,1005,2026-06-19,support_ticket,"Called about unclear contract terms, said the support experience was quick and easy."
+5018,1005,2026-07-07,support_ticket,"Mentioned trouble accessing their account online in passing, seemed satisfied once explained."
+5019,1006,2026-03-26,support_ticket,Escalated confusion over plan inclusions after two unresolved prior contacts.
+5020,1006,2026-05-23,support_ticket,"Reported an incorrect charge on their statement, said they feel like a long-standing customer isn't valued."
+5021,1006,2026-06-27,billing_event,missed_payment
+5022,1007,2025-11-17,csat_survey,7
+5023,1007,2026-01-21,csat_survey,6
+5024,1007,2026-05-13,csat_survey,5
+5025,1008,2026-04-02,billing_event,on_time_payment
+5026,1008,2026-06-26,support_ticket,Called about unclear contract terms for the second time this month.
+5027,1008,2026-07-02,support_ticket,"Asked about a faulty modem/router, sounded a little frustrated but stayed polite."
+5028,1009,2025-02-23,billing_event,late_payment
+5029,1009,2025-03-01,billing_event,on_time_payment
+5030,1009,2026-02-09,support_ticket,"Mentioned a billing error, and referenced a competitor's cheaper offer."
+5031,1009,2026-06-23,billing_event,late_payment
+5032,1010,2026-01-08,support_ticket,Queried a network outage in their area and asked whether a better plan was available.
+5033,1010,2026-02-25,billing_event,late_payment
+5034,1010,2026-06-18,support_ticket,"Reported coverage issues at their new address, said the first fix attempt didn't fully work."
+5035,1011,2025-05-13,csat_survey,9
+5036,1011,2025-06-06,csat_survey,9
+5037,1011,2025-11-18,csat_survey,10
+5038,1012,2025-07-23,csat_survey,6
+5039,1012,2026-01-13,billing_event,on_time_payment
+5040,1012,2026-04-06,csat_survey,7
+5041,1013,2025-09-15,csat_survey,8
+5042,1013,2025-10-08,csat_survey,8
+5043,1013,2026-02-16,csat_survey,10
+5044,1013,2026-02-20,csat_survey,9
+5045,1014,2026-03-25,support_ticket,"Mentioned a billing error, and referenced a competitor's cheaper offer."
+5046,1014,2026-05-18,support_ticket,Raised roaming charges from a recent trip and wasn't fully satisfied with how it was handled.
+5047,1014,2026-06-05,support_ticket,"Asked about a delayed refund, sounded a little frustrated but stayed polite."
+5048,1015,2026-06-12,support_ticket,"Called about an incorrect charge on their statement, said the support experience was quick and easy."
+5049,1015,2026-06-12,billing_event,on_time_payment
+5050,1015,2026-06-21,support_ticket,"Reached out about roaming charges from a recent trip - nothing urgent, just wanted clarity."
+5051,1016,2026-05-14,support_ticket,"Followed up on a network outage in their area from a prior chat, all sorted now."
+5052,1016,2026-06-08,csat_survey,8
+5053,1016,2026-07-07,billing_event,plan_upgrade
+5054,1017,2024-07-08,csat_survey,6
+5055,1017,2024-09-22,billing_event,on_time_payment
+5056,1017,2024-10-07,support_ticket,Raised the app crashing repeatedly and wasn't fully satisfied with how it was handled.
+5057,1017,2025-06-27,csat_survey,4
+5058,1017,2026-06-04,support_ticket,"Reported slow data speeds, said the first fix attempt didn't fully work."
+5059,1018,2025-03-27,support_ticket,"Mentioned a delayed refund in passing, seemed satisfied once explained."
+5060,1018,2025-09-26,csat_survey,10
+5061,1018,2026-02-17,billing_event,on_time_payment
+5062,1019,2026-06-11,csat_survey,7
+5063,1019,2026-06-15,csat_survey,10
+5064,1019,2026-07-08,csat_survey,9
+5065,1020,2024-10-28,support_ticket,"Mentioned an unexpected price increase in passing, seemed satisfied once explained."
+5066,1020,2024-12-14,billing_event,on_time_payment
+5067,1020,2026-02-05,csat_survey,7
+5068,1020,2026-02-20,csat_survey,9
+5069,1020,2026-06-01,billing_event,on_time_payment
+5070,1021,2026-01-05,support_ticket,Asked directly what it would take to cancel after ongoing an unexpected price increase.
+5071,1021,2026-04-05,csat_survey,4
+5072,1021,2026-06-16,support_ticket,"Expressed real frustration over a delayed refund, said they're at their limit."
+5073,1022,2026-05-08,billing_event,on_time_payment
+5074,1022,2026-05-19,support_ticket,"Mentioned an unexpected price increase in passing, seemed satisfied once explained."
+5075,1022,2026-06-21,csat_survey,8
+5076,1023,2020-11-19,support_ticket,"Reported an unexpected price increase, said the first fix attempt didn't fully work."
+5077,1023,2021-01-14,billing_event,late_payment
+5078,1023,2021-11-25,support_ticket,Called about a faulty modem/router for the second time this month.
+5079,1023,2022-10-10,csat_survey,4
+5080,1023,2023-01-23,support_ticket,Called about slow data speeds for the second time this month.
+5081,1023,2023-01-28,billing_event,late_payment
+5082,1023,2023-08-23,support_ticket,Raised slow data speeds and wasn't fully satisfied with how it was handled.
+5083,1023,2023-11-05,support_ticket,Called about unclear contract terms for the second time this month.
+5084,1023,2024-09-17,support_ticket,Called about the app crashing repeatedly for the second time this month.
+5085,1023,2025-11-18,support_ticket,"Asked about confusion over plan inclusions, sounded a little frustrated but stayed polite."
+5086,1023,2025-12-26,billing_event,on_time_payment
+5087,1023,2026-04-14,billing_event,on_time_payment
+5088,1024,2021-08-27,billing_event,on_time_payment
+5089,1024,2021-11-28,billing_event,late_payment
+5090,1024,2021-12-28,csat_survey,4
+5091,1024,2023-04-11,billing_event,on_time_payment
+5092,1024,2023-04-24,billing_event,on_time_payment
+5093,1024,2023-07-12,support_ticket,"Mentioned an incorrect charge on their statement, and referenced a competitor's cheaper offer."
+5094,1024,2023-09-01,billing_event,on_time_payment
+5095,1024,2023-11-11,billing_event,plan_change
+5096,1024,2024-08-24,support_ticket,Raised a network outage in their area and wasn't fully satisfied with how it was handled.
+5097,1024,2024-10-27,billing_event,on_time_payment
+5098,1024,2025-10-05,support_ticket,"Reported a delayed refund, said the first fix attempt didn't fully work."
+5099,1024,2026-07-05,billing_event,on_time_payment
+5100,1025,2026-06-12,support_ticket,"Followed up on long wait times reaching support from a prior chat, all sorted now."
+5101,1025,2026-06-13,support_ticket,"Followed up on unclear contract terms from a prior chat, all sorted now."
+5102,1025,2026-06-14,billing_event,on_time_payment
+5103,1026,2025-12-28,csat_survey,5
+5104,1026,2026-05-04,billing_event,late_payment
+5105,1026,2026-06-11,billing_event,plan_change
+5106,1027,2023-02-24,support_ticket,"Asked how dropped calls would affect their next bill, no complaints raised."
+5107,1027,2024-04-23,support_ticket,"Mentioned a delayed refund in passing, seemed satisfied once explained."
+5108,1027,2024-10-25,support_ticket,"Reached out about a delayed refund - nothing urgent, just wanted clarity."
+5109,1027,2025-01-13,csat_survey,7
+5110,1027,2025-09-05,support_ticket,"Asked a quick question about dropped calls, resolved without any fuss."
+5111,1027,2025-11-09,billing_event,on_time_payment
+5112,1027,2026-03-20,csat_survey,7
+5113,1027,2026-06-18,billing_event,on_time_payment
+5114,1028,2025-01-16,billing_event,plan_change
+5115,1028,2026-01-01,support_ticket,"Asked about a faulty modem/router, sounded a little frustrated but stayed polite."
+5116,1028,2026-01-16,billing_event,on_time_payment
+5117,1028,2026-02-20,csat_survey,6
+5118,1029,2026-05-14,support_ticket,"Reported long wait times reaching support, said they feel like a long-standing customer isn't valued."
+5119,1029,2026-07-07,support_ticket,Escalated roaming charges from a recent trip after two unresolved prior contacts.
+5120,1029,2026-07-09,support_ticket,Called again about a network outage in their area - this is the third time it hasn't been resolved.
+5121,1030,2024-06-03,csat_survey,9
+5122,1030,2024-10-19,support_ticket,"Mentioned unclear contract terms in passing, seemed satisfied once explained."
+5123,1030,2025-05-31,support_ticket,"Called about an incorrect charge on their statement, said the support experience was quick and easy."
+5124,1030,2025-09-16,billing_event,on_time_payment
+5125,1030,2025-11-05,billing_event,on_time_payment
+5126,1030,2025-12-09,support_ticket,"Mentioned trouble accessing their account online in passing, seemed satisfied once explained."
+5127,1031,2023-09-18,csat_survey,6
+5128,1031,2024-11-11,support_ticket,Called about an incorrect charge on their statement for the second time this month.
+5129,1031,2024-12-22,support_ticket,"Asked about confusion over plan inclusions, sounded a little frustrated but stayed polite."
+5130,1031,2025-08-17,support_ticket,"Asked about a delayed refund, sounded a little frustrated but stayed polite."
+5131,1031,2025-12-24,csat_survey,4
+5132,1031,2026-02-22,billing_event,late_payment
+5133,1031,2026-03-24,support_ticket,"Mentioned a network outage in their area, and referenced a competitor's cheaper offer."
+5134,1032,2026-06-05,support_ticket,"Mentioned trouble accessing their account online in passing, seemed satisfied once explained."
+5135,1032,2026-06-06,support_ticket,"Followed up on unclear contract terms from a prior chat, all sorted now."
+5136,1032,2026-06-25,support_ticket,"Asked a quick question about slow data speeds, resolved without any fuss."
+5137,1033,2022-08-18,support_ticket,"Reported a billing error, said the first fix attempt didn't fully work."
+5138,1033,2023-04-21,billing_event,on_time_payment
+5139,1033,2023-09-02,billing_event,plan_change
+5140,1033,2023-11-01,billing_event,plan_change
+5141,1033,2024-07-17,billing_event,late_payment
+5142,1033,2024-11-09,csat_survey,4
+5143,1033,2025-01-07,support_ticket,Raised the app crashing repeatedly and wasn't fully satisfied with how it was handled.
+5144,1033,2025-02-02,billing_event,plan_change
+5145,1033,2026-02-05,billing_event,on_time_payment
+5146,1034,2026-06-26,support_ticket,"Mentioned unclear contract terms, and referenced a competitor's cheaper offer."
+5147,1034,2026-07-05,support_ticket,Called about the app crashing repeatedly for the second time this month.
+5148,1034,2026-07-08,csat_survey,5
+5149,1035,2025-11-13,csat_survey,9
+5150,1035,2026-02-25,support_ticket,"Asked a quick question about roaming charges from a recent trip, resolved without any fuss."
+5151,1035,2026-03-07,billing_event,on_time_payment
+5152,1036,2024-09-11,support_ticket,"Reported trouble accessing their account online, said the first fix attempt didn't fully work."
+5153,1036,2024-12-01,support_ticket,"Reported an incorrect charge on their statement, said the first fix attempt didn't fully work."
+5154,1036,2025-02-17,billing_event,on_time_payment
+5155,1036,2025-03-04,support_ticket,"Asked about a billing error, sounded a little frustrated but stayed polite."
+5156,1036,2025-07-17,billing_event,plan_change
+5157,1037,2022-05-10,csat_survey,6
+5158,1037,2022-06-21,billing_event,plan_change
+5159,1037,2022-09-01,billing_event,plan_change
+5160,1037,2024-01-26,support_ticket,"Mentioned a billing error, and referenced a competitor's cheaper offer."
+5161,1037,2024-05-11,csat_survey,5
+5162,1037,2024-06-12,csat_survey,7
+5163,1037,2024-07-08,csat_survey,6
+5164,1037,2025-07-31,support_ticket,Raised an unexpected price increase and wasn't fully satisfied with how it was handled.
+5165,1037,2025-10-04,billing_event,plan_change
+5166,1037,2026-04-01,billing_event,plan_change
+5167,1038,2024-05-17,csat_survey,3
+5168,1038,2025-02-27,support_ticket,"Expressed real frustration over dropped calls, said they're at their limit."
+5169,1038,2025-03-19,billing_event,missed_payment
+5170,1038,2025-07-03,billing_event,late_payment
+5171,1038,2025-07-10,csat_survey,3
+5172,1038,2026-05-11,support_ticket,Escalated an incorrect charge on their statement after two unresolved prior contacts.
+5173,1039,2023-11-30,support_ticket,Called again about slow data speeds - this is the third time it hasn't been resolved.
+5174,1039,2024-12-27,support_ticket,"Expressed real frustration over unclear contract terms, said they're at their limit."
+5175,1039,2025-07-16,support_ticket,Escalated dropped calls after two unresolved prior contacts.
+5176,1039,2025-08-17,support_ticket,Escalated roaming charges from a recent trip after two unresolved prior contacts.
+5177,1039,2025-08-22,billing_event,missed_payment
+5178,1039,2025-10-18,billing_event,plan_downgrade
+5179,1039,2026-06-01,csat_survey,3
+5180,1040,2025-05-25,support_ticket,"Asked a quick question about roaming charges from a recent trip, resolved without any fuss."
+5181,1040,2025-06-01,billing_event,on_time_payment
+5182,1040,2025-07-31,csat_survey,7
+5183,1041,2025-02-09,support_ticket,"Asked a quick question about the app crashing repeatedly, resolved without any fuss."
+5184,1041,2025-03-31,billing_event,on_time_payment
+5185,1041,2026-05-11,support_ticket,"Mentioned dropped calls in passing, seemed satisfied once explained."
+5186,1042,2026-05-12,billing_event,missed_payment
+5187,1042,2026-05-21,billing_event,missed_payment
+5188,1042,2026-06-22,billing_event,missed_payment
+5189,1043,2026-06-09,billing_event,on_time_payment
+5190,1043,2026-06-25,support_ticket,"Called about long wait times reaching support, said the support experience was quick and easy."
+5191,1043,2026-07-08,support_ticket,"Asked a quick question about roaming charges from a recent trip, resolved without any fuss."
+5192,1044,2025-03-14,support_ticket,"Mentioned trouble accessing their account online in passing, seemed satisfied once explained."
+5193,1044,2026-01-22,support_ticket,"Asked how slow data speeds would affect their next bill, no complaints raised."
+5194,1044,2026-06-11,support_ticket,"Asked how roaming charges from a recent trip would affect their next bill, no complaints raised."
+5195,1045,2022-01-11,csat_survey,5
+5196,1045,2022-02-03,billing_event,late_payment
+5197,1045,2022-03-11,support_ticket,Asked directly what it would take to cancel after ongoing confusion over plan inclusions.
+5198,1045,2022-06-15,billing_event,plan_downgrade
+5199,1045,2022-07-03,billing_event,missed_payment
+5200,1045,2022-12-20,csat_survey,3
+5201,1045,2023-08-13,support_ticket,Called again about long wait times reaching support - this is the third time it hasn't been resolved.
+5202,1045,2023-11-18,billing_event,plan_downgrade
+5203,1045,2024-10-08,support_ticket,Escalated coverage issues at their new address after two unresolved prior contacts.
+5204,1045,2025-05-30,billing_event,late_payment
+5205,1045,2026-01-30,support_ticket,"Reported a delayed refund, said they feel like a long-standing customer isn't valued."
+5206,1046,2023-12-01,support_ticket,Queried the app crashing repeatedly and asked whether a better plan was available.
+5207,1046,2024-05-31,csat_survey,7
+5208,1046,2024-10-31,support_ticket,"Asked about dropped calls, sounded a little frustrated but stayed polite."
+5209,1046,2025-10-11,support_ticket,"Mentioned a delayed refund, and referenced a competitor's cheaper offer."
+5210,1046,2025-11-09,csat_survey,5
+5211,1046,2026-05-26,billing_event,on_time_payment
+5212,1046,2026-06-24,billing_event,plan_change
+5213,1047,2026-03-06,billing_event,on_time_payment
+5214,1047,2026-04-30,support_ticket,Called about an unexpected price increase for the second time this month.
+5215,1047,2026-06-02,support_ticket,"Mentioned an unexpected price increase, and referenced a competitor's cheaper offer."
+5216,1048,2026-03-31,support_ticket,"Expressed real frustration over slow data speeds, said they're at their limit."
+5217,1048,2026-04-24,support_ticket,Called again about long wait times reaching support - this is the third time it hasn't been resolved.
+5218,1048,2026-05-26,csat_survey,5
+5219,1049,2021-06-22,support_ticket,Asked directly what it would take to cancel after ongoing coverage issues at their new address.
+5220,1049,2021-07-20,csat_survey,2
+5221,1049,2022-06-17,billing_event,late_payment
+5222,1049,2022-11-07,support_ticket,Escalated a faulty modem/router after two unresolved prior contacts.
+5223,1049,2023-04-16,billing_event,late_payment
+5224,1049,2023-05-12,billing_event,missed_payment
+5225,1049,2023-06-23,billing_event,late_payment
+5226,1049,2023-08-09,csat_survey,5
+5227,1049,2024-09-12,support_ticket,Escalated a faulty modem/router after two unresolved prior contacts.
+5228,1049,2024-11-28,billing_event,late_payment
+5229,1049,2025-03-24,support_ticket,Said they're actively comparing providers because of coverage issues at their new address.
+5230,1049,2025-12-31,csat_survey,3
+5231,1050,2022-09-14,billing_event,missed_payment
+5232,1050,2022-11-21,billing_event,plan_downgrade
+5233,1050,2023-02-12,csat_survey,5
+5234,1050,2023-08-17,billing_event,late_payment
+5235,1050,2023-08-29,csat_survey,5
+5236,1050,2024-08-14,support_ticket,Asked directly what it would take to cancel after ongoing a billing error.
+5237,1050,2024-10-14,billing_event,plan_downgrade
+5238,1050,2025-02-16,billing_event,missed_payment
+5239,1050,2026-01-30,billing_event,missed_payment
+5240,1050,2026-02-26,support_ticket,"Expressed real frustration over the app crashing repeatedly, said they're at their limit."
+5241,1051,2023-06-28,billing_event,on_time_payment
+5242,1051,2023-08-19,csat_survey,7
+5243,1051,2024-10-01,csat_survey,8
+5244,1051,2025-05-06,csat_survey,9
+5245,1051,2025-06-13,csat_survey,10
+5246,1051,2025-09-24,support_ticket,"Followed up on a network outage in their area from a prior chat, all sorted now."
+5247,1051,2026-01-22,support_ticket,"Asked a quick question about a network outage in their area, resolved without any fuss."
+5248,1051,2026-05-12,support_ticket,"Mentioned coverage issues at their new address in passing, seemed satisfied once explained."
+5249,1052,2022-03-02,support_ticket,Escalated a delayed refund after two unresolved prior contacts.
+5250,1052,2022-03-18,support_ticket,"Expressed real frustration over slow data speeds, said they're at their limit."
+5251,1052,2022-05-26,support_ticket,Said they're actively comparing providers because of trouble accessing their account online.
+5252,1052,2022-07-11,csat_survey,4
+5253,1052,2023-07-08,billing_event,missed_payment
+5254,1052,2024-03-03,csat_survey,1
+5255,1052,2024-09-18,support_ticket,"Expressed real frustration over long wait times reaching support, said they're at their limit."
+5256,1052,2025-09-23,csat_survey,5
+5257,1052,2025-12-03,billing_event,missed_payment
+5258,1052,2026-01-21,csat_survey,2
+5259,1052,2026-03-20,support_ticket,Called again about an unexpected price increase - this is the third time it hasn't been resolved.
+5260,1053,2026-02-11,billing_event,missed_payment
+5261,1053,2026-05-01,support_ticket,Said they're actively comparing providers because of unclear contract terms.
+5262,1053,2026-05-31,billing_event,late_payment
+5263,1054,2025-07-21,billing_event,on_time_payment
+5264,1054,2026-02-03,billing_event,on_time_payment
+5265,1054,2026-06-14,support_ticket,"Called about slow data speeds, said the support experience was quick and easy."
+5266,1055,2023-06-11,billing_event,on_time_payment
+5267,1055,2023-06-27,billing_event,on_time_payment
+5268,1055,2024-03-02,support_ticket,"Reported long wait times reaching support, said the first fix attempt didn't fully work."
+5269,1055,2025-04-07,billing_event,on_time_payment
+5270,1055,2025-07-03,support_ticket,"Mentioned a billing error, and referenced a competitor's cheaper offer."
+5271,1055,2025-08-24,billing_event,on_time_payment
+5272,1055,2025-08-24,support_ticket,Raised a network outage in their area and wasn't fully satisfied with how it was handled.
+5273,1055,2026-06-27,csat_survey,6
+5274,1056,2026-02-02,support_ticket,"Asked how a delayed refund would affect their next bill, no complaints raised."
+5275,1056,2026-04-14,support_ticket,"Followed up on trouble accessing their account online from a prior chat, all sorted now."
+5276,1056,2026-06-12,csat_survey,8
+5277,1057,2026-05-10,support_ticket,"Followed up on a network outage in their area from a prior chat, all sorted now."
+5278,1057,2026-05-28,csat_survey,8
+5279,1057,2026-06-08,csat_survey,10
+5280,1058,2025-10-13,csat_survey,7
+5281,1058,2025-11-28,billing_event,late_payment
+5282,1058,2026-02-07,support_ticket,"Mentioned a billing error, and referenced a competitor's cheaper offer."
+5283,1059,2026-03-20,support_ticket,Raised a faulty modem/router and wasn't fully satisfied with how it was handled.
+5284,1059,2026-05-20,support_ticket,Raised a network outage in their area and wasn't fully satisfied with how it was handled.
+5285,1059,2026-07-06,csat_survey,7
+5286,1060,2020-08-25,csat_survey,10
+5287,1060,2020-10-23,support_ticket,"Asked how an unexpected price increase would affect their next bill, no complaints raised."
+5288,1060,2021-06-10,support_ticket,"Asked a quick question about an incorrect charge on their statement, resolved without any fuss."
+5289,1060,2021-12-14,billing_event,on_time_payment
+5290,1060,2023-05-24,support_ticket,"Mentioned confusion over plan inclusions in passing, seemed satisfied once explained."
+5291,1060,2023-06-23,csat_survey,10
+5292,1060,2023-07-15,csat_survey,10
+5293,1060,2023-08-27,support_ticket,"Reached out about roaming charges from a recent trip - nothing urgent, just wanted clarity."
+5294,1060,2025-04-27,billing_event,on_time_payment
+5295,1060,2025-07-19,csat_survey,9
+5296,1060,2025-11-28,csat_survey,10
+5297,1060,2026-04-03,support_ticket,"Followed up on an incorrect charge on their statement from a prior chat, all sorted now."
+5298,1061,2020-09-02,support_ticket,"Mentioned a network outage in their area in passing, seemed satisfied once explained."
+5299,1061,2021-05-07,support_ticket,"Mentioned a delayed refund in passing, seemed satisfied once explained."
+5300,1061,2021-10-25,support_ticket,"Called about unclear contract terms, said the support experience was quick and easy."
+5301,1061,2021-12-16,billing_event,on_time_payment
+5302,1061,2022-03-25,billing_event,on_time_payment
+5303,1061,2022-04-08,billing_event,on_time_payment
+5304,1061,2022-07-04,billing_event,plan_upgrade
+5305,1061,2024-01-06,support_ticket,"Asked a quick question about dropped calls, resolved without any fuss."
+5306,1061,2024-01-10,billing_event,plan_upgrade
+5307,1061,2025-03-20,support_ticket,"Asked how a delayed refund would affect their next bill, no complaints raised."
+5308,1061,2025-09-11,support_ticket,"Asked a quick question about slow data speeds, resolved without any fuss."
+5309,1061,2026-02-23,csat_survey,10
+5310,1062,2025-12-06,support_ticket,Called again about an unexpected price increase - this is the third time it hasn't been resolved.
+5311,1062,2026-01-25,csat_survey,3
+5312,1062,2026-06-11,support_ticket,"Reported a billing error, said they feel like a long-standing customer isn't valued."
+5313,1063,2026-02-25,billing_event,missed_payment
+5314,1063,2026-03-18,csat_survey,3
+5315,1063,2026-06-12,billing_event,missed_payment
+5316,1064,2025-03-22,billing_event,on_time_payment
+5317,1064,2025-08-09,support_ticket,"Asked how the app crashing repeatedly would affect their next bill, no complaints raised."
+5318,1064,2025-09-11,support_ticket,"Asked a quick question about a billing error, resolved without any fuss."
+5319,1065,2026-06-15,billing_event,plan_upgrade
+5320,1065,2026-06-27,billing_event,on_time_payment
+5321,1065,2026-07-02,support_ticket,"Mentioned trouble accessing their account online in passing, seemed satisfied once explained."
+5322,1066,2026-01-11,billing_event,on_time_payment
+5323,1066,2026-04-29,billing_event,plan_upgrade
+5324,1066,2026-06-08,support_ticket,"Reached out about an incorrect charge on their statement - nothing urgent, just wanted clarity."
+5325,1067,2026-04-23,support_ticket,"Expressed real frustration over coverage issues at their new address, said they're at their limit."
+5326,1067,2026-04-26,billing_event,missed_payment
+5327,1067,2026-05-16,csat_survey,3
+5328,1068,2026-02-05,billing_event,on_time_payment
+5329,1068,2026-02-16,billing_event,on_time_payment
+5330,1068,2026-05-07,csat_survey,5
+5331,1069,2024-08-02,billing_event,late_payment
+5332,1069,2024-09-11,csat_survey,5
+5333,1069,2024-12-25,support_ticket,Called about a faulty modem/router for the second time this month.
+5334,1069,2025-02-05,support_ticket,"Mentioned a billing error, and referenced a competitor's cheaper offer."
+5335,1069,2025-08-25,support_ticket,"Reported a network outage in their area, said the first fix attempt didn't fully work."
+5336,1070,2024-01-02,billing_event,late_payment
+5337,1070,2024-05-01,billing_event,missed_payment
+5338,1070,2024-07-07,support_ticket,Said they're actively comparing providers because of trouble accessing their account online.
+5339,1070,2025-05-16,billing_event,missed_payment
+5340,1070,2025-05-28,csat_survey,5
+5341,1070,2026-02-27,support_ticket,Asked directly what it would take to cancel after ongoing a delayed refund.
+5342,1071,2025-10-14,support_ticket,Said they're actively comparing providers because of a delayed refund.
+5343,1071,2025-10-15,billing_event,late_payment
+5344,1071,2026-03-29,csat_survey,5
+5345,1072,2025-04-27,billing_event,on_time_payment
+5346,1072,2025-04-29,csat_survey,8
+5347,1072,2025-06-03,billing_event,on_time_payment
+5348,1072,2025-08-24,csat_survey,8
+5349,1073,2026-05-30,support_ticket,"Reached out about a network outage in their area - nothing urgent, just wanted clarity."
+5350,1073,2026-06-11,csat_survey,8
+5351,1073,2026-06-24,support_ticket,"Followed up on coverage issues at their new address from a prior chat, all sorted now."
+5352,1074,2026-03-16,support_ticket,"Asked a quick question about the app crashing repeatedly, resolved without any fuss."
+5353,1074,2026-04-17,support_ticket,"Followed up on the app crashing repeatedly from a prior chat, all sorted now."
+5354,1074,2026-06-27,support_ticket,"Mentioned unclear contract terms in passing, seemed satisfied once explained."
+5355,1075,2026-06-20,billing_event,late_payment
+5356,1075,2026-06-25,billing_event,late_payment
+5357,1075,2026-06-27,support_ticket,"Reported trouble accessing their account online, said they feel like a long-standing customer isn't valued."
+5358,1076,2026-06-13,csat_survey,3
+5359,1076,2026-06-17,csat_survey,5
+5360,1076,2026-06-18,support_ticket,Called again about dropped calls - this is the third time it hasn't been resolved.
+5361,1077,2025-11-17,support_ticket,Escalated a faulty modem/router after two unresolved prior contacts.
+5362,1077,2025-12-25,billing_event,late_payment
+5363,1077,2026-04-27,csat_survey,4
+5364,1078,2026-05-03,billing_event,missed_payment
+5365,1078,2026-05-06,billing_event,plan_downgrade
+5366,1078,2026-06-25,billing_event,plan_downgrade
+5367,1079,2024-12-10,billing_event,plan_upgrade
+5368,1079,2024-12-22,support_ticket,"Asked a quick question about trouble accessing their account online, resolved without any fuss."
+5369,1079,2025-03-20,support_ticket,"Called about confusion over plan inclusions, said the support experience was quick and easy."
+5370,1079,2025-05-19,billing_event,on_time_payment
+5371,1079,2025-12-30,support_ticket,"Reached out about a network outage in their area - nothing urgent, just wanted clarity."
+5372,1079,2026-03-19,csat_survey,9
+5373,1080,2026-04-12,billing_event,on_time_payment
+5374,1080,2026-06-17,csat_survey,8
+5375,1080,2026-06-17,support_ticket,"Mentioned an unexpected price increase in passing, seemed satisfied once explained."
+5376,1081,2025-12-12,billing_event,on_time_payment
+5377,1081,2026-01-23,billing_event,late_payment
+5378,1081,2026-02-07,support_ticket,Queried confusion over plan inclusions and asked whether a better plan was available.
+5379,1082,2024-07-18,csat_survey,10
+5380,1082,2025-01-23,support_ticket,"Reached out about an incorrect charge on their statement - nothing urgent, just wanted clarity."
+5381,1082,2025-02-06,support_ticket,"Followed up on trouble accessing their account online from a prior chat, all sorted now."
+5382,1082,2025-12-03,support_ticket,"Reached out about roaming charges from a recent trip - nothing urgent, just wanted clarity."
+5383,1082,2026-07-07,csat_survey,10
+5384,1083,2023-03-12,billing_event,on_time_payment
+5385,1083,2023-03-14,billing_event,on_time_payment
+5386,1083,2023-05-22,csat_survey,10
+5387,1083,2023-07-04,csat_survey,8
+5388,1083,2024-06-18,billing_event,on_time_payment
+5389,1083,2024-09-06,support_ticket,"Called about unclear contract terms, said the support experience was quick and easy."
+5390,1083,2024-12-13,csat_survey,10
+5391,1083,2025-09-13,support_ticket,"Asked a quick question about an incorrect charge on their statement, resolved without any fuss."
+5392,1084,2026-04-12,support_ticket,"Expressed real frustration over coverage issues at their new address, said they're at their limit."
+5393,1084,2026-05-01,support_ticket,Asked directly what it would take to cancel after ongoing a faulty modem/router.
+5394,1084,2026-07-06,billing_event,missed_payment
+5395,1085,2026-05-10,billing_event,on_time_payment
+5396,1085,2026-07-04,support_ticket,"Mentioned dropped calls in passing, seemed satisfied once explained."
+5397,1085,2026-07-09,support_ticket,"Called about a faulty modem/router, said the support experience was quick and easy."
+5398,1086,2025-10-04,billing_event,on_time_payment
+5399,1086,2026-02-28,support_ticket,"Asked a quick question about confusion over plan inclusions, resolved without any fuss."
+5400,1086,2026-03-30,support_ticket,"Mentioned long wait times reaching support in passing, seemed satisfied once explained."
+5401,1087,2024-04-04,csat_survey,8
+5402,1087,2024-10-03,support_ticket,"Followed up on confusion over plan inclusions from a prior chat, all sorted now."
+5403,1087,2024-10-29,billing_event,on_time_payment
+5404,1087,2025-01-21,support_ticket,"Asked how a network outage in their area would affect their next bill, no complaints raised."
+5405,1087,2025-09-13,csat_survey,10
+5406,1087,2026-03-23,support_ticket,"Followed up on slow data speeds from a prior chat, all sorted now."
+5407,1088,2026-05-27,support_ticket,"Reported a network outage in their area, said the first fix attempt didn't fully work."
+5408,1088,2026-05-28,support_ticket,"Reported trouble accessing their account online, said the first fix attempt didn't fully work."
+5409,1088,2026-06-10,csat_survey,6
+5410,1089,2026-03-20,billing_event,plan_change
+5411,1089,2026-03-28,billing_event,on_time_payment
+5412,1089,2026-06-29,billing_event,on_time_payment
+5413,1090,2026-06-09,support_ticket,Escalated dropped calls after two unresolved prior contacts.
+5414,1090,2026-06-23,csat_survey,5
+5415,1090,2026-07-04,support_ticket,Escalated an incorrect charge on their statement after two unresolved prior contacts.
+5416,1091,2026-05-22,billing_event,on_time_payment
+5417,1091,2026-06-14,billing_event,on_time_payment
+5418,1091,2026-06-15,csat_survey,8
+5419,1092,2024-07-25,billing_event,plan_upgrade
+5420,1092,2024-11-22,support_ticket,"Asked how trouble accessing their account online would affect their next bill, no complaints raised."
+5421,1092,2025-08-01,billing_event,plan_upgrade
+5422,1092,2026-01-10,support_ticket,"Asked how an unexpected price increase would affect their next bill, no complaints raised."
+5423,1092,2026-01-27,support_ticket,"Asked how dropped calls would affect their next bill, no complaints raised."
+5424,1092,2026-07-01,support_ticket,"Called about a network outage in their area, said the support experience was quick and easy."
+5425,1093,2024-06-18,billing_event,plan_change
+5426,1093,2024-06-21,billing_event,plan_change
+5427,1093,2024-11-27,billing_event,plan_change
+5428,1093,2025-02-24,csat_survey,4
+5429,1093,2026-03-20,billing_event,late_payment
+5430,1094,2026-04-02,billing_event,plan_change
+5431,1094,2026-05-18,billing_event,on_time_payment
+5432,1094,2026-06-25,csat_survey,7
+5433,1095,2026-01-17,csat_survey,9
+5434,1095,2026-06-30,billing_event,on_time_payment
+5435,1095,2026-07-08,billing_event,on_time_payment
+5436,1096,2023-06-01,csat_survey,9
+5437,1096,2023-08-22,billing_event,on_time_payment
+5438,1096,2023-09-07,csat_survey,9
+5439,1096,2023-10-19,csat_survey,8
+5440,1096,2024-03-04,billing_event,plan_upgrade
+5441,1096,2024-05-18,support_ticket,"Mentioned long wait times reaching support in passing, seemed satisfied once explained."
+5442,1096,2025-04-06,csat_survey,9
+5443,1096,2025-10-31,support_ticket,"Followed up on a delayed refund from a prior chat, all sorted now."
+5444,1096,2025-12-12,billing_event,plan_upgrade
+5445,1097,2025-01-23,csat_survey,8
+5446,1097,2025-03-31,support_ticket,"Mentioned trouble accessing their account online in passing, seemed satisfied once explained."
+5447,1097,2025-04-24,support_ticket,"Called about a delayed refund, said the support experience was quick and easy."
+5448,1097,2025-05-23,support_ticket,"Called about an unexpected price increase, said the support experience was quick and easy."
+5449,1097,2026-01-01,support_ticket,"Followed up on the app crashing repeatedly from a prior chat, all sorted now."
+5450,1098,2026-05-05,csat_survey,9
+5451,1098,2026-05-21,support_ticket,"Followed up on trouble accessing their account online from a prior chat, all sorted now."
+5452,1098,2026-06-20,billing_event,on_time_payment
+5453,1099,2026-01-12,support_ticket,"Reported an unexpected price increase, said they feel like a long-standing customer isn't valued."
+5454,1099,2026-05-22,billing_event,missed_payment
+5455,1099,2026-07-09,support_ticket,Asked directly what it would take to cancel after ongoing trouble accessing their account online.
+5456,1100,2024-08-13,billing_event,late_payment
+5457,1100,2024-10-25,support_ticket,"Reported coverage issues at their new address, said the first fix attempt didn't fully work."
+5458,1100,2025-08-22,support_ticket,"Asked about coverage issues at their new address, sounded a little frustrated but stayed polite."
+5459,1100,2025-09-22,csat_survey,7
+5460,1100,2026-03-05,billing_event,late_payment
+5461,1101,2023-08-05,csat_survey,3
+5462,1101,2023-09-17,support_ticket,Escalated a billing error after two unresolved prior contacts.
+5463,1101,2024-02-28,csat_survey,1
+5464,1101,2024-06-13,billing_event,late_payment
+5465,1101,2024-12-29,billing_event,missed_payment
+5466,1101,2025-01-13,csat_survey,2
+5467,1101,2025-07-16,billing_event,late_payment
+5468,1101,2026-04-08,csat_survey,1
+5469,1102,2025-07-11,csat_survey,10
+5470,1102,2025-09-03,csat_survey,8
+5471,1102,2026-05-04,csat_survey,9
+5472,1103,2026-03-03,csat_survey,7
+5473,1103,2026-04-12,support_ticket,"Followed up on dropped calls from a prior chat, all sorted now."
+5474,1103,2026-05-16,csat_survey,9
+5475,1104,2026-06-09,support_ticket,"Asked about long wait times reaching support, sounded a little frustrated but stayed polite."
+5476,1104,2026-06-23,billing_event,late_payment
+5477,1104,2026-07-03,csat_survey,7
+5478,1105,2024-10-20,support_ticket,Called again about a network outage in their area - this is the third time it hasn't been resolved.
+5479,1105,2024-11-30,support_ticket,Said they're actively comparing providers because of a delayed refund.
+5480,1105,2025-02-18,support_ticket,"Expressed real frustration over a billing error, said they're at their limit."
+5481,1105,2025-11-23,billing_event,plan_downgrade
+5482,1105,2026-03-16,billing_event,late_payment
+5483,1106,2021-01-22,support_ticket,Escalated coverage issues at their new address after two unresolved prior contacts.
+5484,1106,2021-10-29,billing_event,missed_payment
+5485,1106,2023-01-17,billing_event,missed_payment
+5486,1106,2023-10-24,billing_event,missed_payment
+5487,1106,2023-12-15,support_ticket,"Expressed real frustration over roaming charges from a recent trip, said they're at their limit."
+5488,1106,2024-02-11,support_ticket,"Expressed real frustration over a billing error, said they're at their limit."
+5489,1106,2024-07-19,support_ticket,"Expressed real frustration over roaming charges from a recent trip, said they're at their limit."
+5490,1106,2025-01-10,csat_survey,3
+5491,1106,2025-02-02,support_ticket,Escalated unclear contract terms after two unresolved prior contacts.
+5492,1106,2025-02-25,support_ticket,Escalated a network outage in their area after two unresolved prior contacts.
+5493,1106,2025-11-30,billing_event,missed_payment
+5494,1106,2026-02-03,billing_event,missed_payment
+5495,1107,2021-09-01,support_ticket,"Called about a delayed refund, said the support experience was quick and easy."
+5496,1107,2021-12-07,billing_event,on_time_payment
+5497,1107,2022-10-01,billing_event,on_time_payment
+5498,1107,2023-02-14,support_ticket,"Reached out about an unexpected price increase - nothing urgent, just wanted clarity."
+5499,1107,2023-08-03,csat_survey,10
+5500,1107,2023-08-24,support_ticket,"Asked how unclear contract terms would affect their next bill, no complaints raised."
+5501,1107,2024-01-07,support_ticket,"Asked how long wait times reaching support would affect their next bill, no complaints raised."
+5502,1107,2025-01-22,csat_survey,8
+5503,1107,2025-08-09,csat_survey,7
+5504,1107,2025-08-17,billing_event,on_time_payment
+5505,1107,2025-09-21,support_ticket,"Followed up on dropped calls from a prior chat, all sorted now."
+5506,1107,2025-10-23,support_ticket,"Followed up on coverage issues at their new address from a prior chat, all sorted now."
+5507,1108,2025-08-23,billing_event,on_time_payment
+5508,1108,2026-02-08,support_ticket,"Followed up on roaming charges from a recent trip from a prior chat, all sorted now."
+5509,1108,2026-03-12,support_ticket,"Reached out about trouble accessing their account online - nothing urgent, just wanted clarity."
+5510,1109,2022-11-24,billing_event,on_time_payment
+5511,1109,2023-01-11,csat_survey,7
+5512,1109,2023-02-15,csat_survey,7
+5513,1109,2023-08-28,support_ticket,"Mentioned roaming charges from a recent trip, and referenced a competitor's cheaper offer."
+5514,1109,2024-06-26,billing_event,plan_change
+5515,1109,2025-01-29,billing_event,on_time_payment
+5516,1109,2026-01-01,billing_event,plan_change
+5517,1109,2026-01-01,support_ticket,Raised trouble accessing their account online and wasn't fully satisfied with how it was handled.
+5518,1109,2026-04-15,support_ticket,Raised a billing error and wasn't fully satisfied with how it was handled.
+5519,1110,2024-12-19,billing_event,on_time_payment
+5520,1110,2025-02-15,billing_event,on_time_payment
+5521,1110,2025-09-17,csat_survey,7
+5522,1110,2025-09-26,csat_survey,10
+5523,1111,2021-01-31,support_ticket,"Called about slow data speeds, said the support experience was quick and easy."
+5524,1111,2021-11-06,csat_survey,10
+5525,1111,2021-12-20,support_ticket,"Called about roaming charges from a recent trip, said the support experience was quick and easy."
+5526,1111,2022-01-06,csat_survey,10
+5527,1111,2022-02-08,support_ticket,"Asked how a delayed refund would affect their next bill, no complaints raised."
+5528,1111,2022-07-12,csat_survey,8
+5529,1111,2022-12-21,billing_event,on_time_payment
+5530,1111,2023-04-03,support_ticket,"Followed up on confusion over plan inclusions from a prior chat, all sorted now."
+5531,1111,2023-05-30,billing_event,on_time_payment
+5532,1111,2024-03-11,csat_survey,7
+5533,1111,2024-07-09,csat_survey,10
+5534,1111,2026-02-17,billing_event,plan_upgrade
+5535,1112,2026-05-21,billing_event,on_time_payment
+5536,1112,2026-06-03,support_ticket,"Mentioned slow data speeds in passing, seemed satisfied once explained."
+5537,1112,2026-06-17,support_ticket,"Asked how a faulty modem/router would affect their next bill, no complaints raised."
+5538,1113,2025-04-06,support_ticket,"Asked how confusion over plan inclusions would affect their next bill, no complaints raised."
+5539,1113,2025-12-12,billing_event,on_time_payment
+5540,1113,2026-05-17,support_ticket,"Asked a quick question about dropped calls, resolved without any fuss."
+5541,1113,2026-05-24,billing_event,plan_upgrade
+5542,1114,2024-03-20,billing_event,on_time_payment
+5543,1114,2024-09-27,support_ticket,Raised confusion over plan inclusions and wasn't fully satisfied with how it was handled.
+5544,1114,2024-10-29,billing_event,late_payment
+5545,1114,2026-01-21,csat_survey,4
+5546,1114,2026-02-25,support_ticket,Queried an unexpected price increase and asked whether a better plan was available.
+5547,1114,2026-04-14,csat_survey,6
+5548,1115,2024-04-28,billing_event,plan_downgrade
+5549,1115,2024-06-22,support_ticket,"Expressed real frustration over a delayed refund, said they're at their limit."
+5550,1115,2024-07-13,billing_event,missed_payment
+5551,1115,2025-03-21,support_ticket,Called again about long wait times reaching support - this is the third time it hasn't been resolved.
+5552,1115,2025-11-02,csat_survey,2
+5553,1115,2026-05-16,billing_event,missed_payment
+5554,1116,2025-12-07,billing_event,on_time_payment
+5555,1116,2025-12-18,csat_survey,10
+5556,1116,2026-06-02,csat_survey,9
+5557,1117,2024-04-13,billing_event,missed_payment
+5558,1117,2024-06-01,support_ticket,Said they're actively comparing providers because of slow data speeds.
+5559,1117,2024-10-26,csat_survey,4
+5560,1117,2025-05-26,support_ticket,"Expressed real frustration over the app crashing repeatedly, said they're at their limit."
+5561,1117,2025-06-30,csat_survey,2
+5562,1117,2025-07-11,csat_survey,1
+5563,1117,2025-12-16,billing_event,missed_payment
+5564,1117,2026-01-27,billing_event,late_payment
+5565,1118,2022-01-03,support_ticket,Asked directly what it would take to cancel after ongoing an unexpected price increase.
+5566,1118,2022-03-29,support_ticket,Called again about coverage issues at their new address - this is the third time it hasn't been resolved.
+5567,1118,2022-07-18,billing_event,plan_downgrade
+5568,1118,2023-07-01,support_ticket,Escalated an incorrect charge on their statement after two unresolved prior contacts.
+5569,1118,2024-04-01,support_ticket,Asked directly what it would take to cancel after ongoing confusion over plan inclusions.
+5570,1118,2024-04-02,billing_event,missed_payment
+5571,1118,2024-05-04,csat_survey,2
+5572,1118,2024-11-12,csat_survey,5
+5573,1118,2025-05-03,billing_event,late_payment
+5574,1118,2025-09-02,billing_event,plan_downgrade
+5575,1118,2025-09-07,support_ticket,Called again about an unexpected price increase - this is the third time it hasn't been resolved.
+5576,1118,2026-04-25,csat_survey,1
+5577,1119,2025-04-24,billing_event,plan_change
+5578,1119,2025-10-10,csat_survey,5
+5579,1119,2026-03-01,support_ticket,Called about long wait times reaching support for the second time this month.
+5580,1120,2025-01-04,support_ticket,"Mentioned confusion over plan inclusions in passing, seemed satisfied once explained."
+5581,1120,2025-05-21,billing_event,on_time_payment
+5582,1120,2025-07-31,support_ticket,"Mentioned long wait times reaching support in passing, seemed satisfied once explained."
+5583,1120,2025-09-26,csat_survey,10
+5584,1120,2025-11-19,support_ticket,"Asked how roaming charges from a recent trip would affect their next bill, no complaints raised."
+5585,1121,2024-08-05,csat_survey,6
+5586,1121,2024-08-08,csat_survey,6
+5587,1121,2025-11-09,support_ticket,Raised unclear contract terms and wasn't fully satisfied with how it was handled.
+5588,1121,2025-12-03,csat_survey,5
+5589,1121,2026-03-12,support_ticket,"Reported coverage issues at their new address, said the first fix attempt didn't fully work."
+5590,1121,2026-07-03,billing_event,plan_change
+5591,1122,2025-11-02,support_ticket,"Reached out about a network outage in their area - nothing urgent, just wanted clarity."
+5592,1122,2026-04-06,support_ticket,"Followed up on an incorrect charge on their statement from a prior chat, all sorted now."
+5593,1122,2026-04-24,support_ticket,"Followed up on a delayed refund from a prior chat, all sorted now."
+5594,1123,2026-01-16,csat_survey,6
+5595,1123,2026-02-01,support_ticket,"Mentioned trouble accessing their account online, and referenced a competitor's cheaper offer."
+5596,1123,2026-05-20,billing_event,plan_change
+5597,1124,2026-06-19,billing_event,on_time_payment
+5598,1124,2026-06-30,support_ticket,"Asked about long wait times reaching support, sounded a little frustrated but stayed polite."
+5599,1124,2026-07-09,billing_event,on_time_payment
+5600,1125,2025-09-09,billing_event,on_time_payment
+5601,1125,2025-09-11,csat_survey,7
+5602,1125,2026-04-13,csat_survey,10
+5603,1126,2024-11-26,support_ticket,Escalated an unexpected price increase after two unresolved prior contacts.
+5604,1126,2024-12-31,support_ticket,"Expressed real frustration over a billing error, said they're at their limit."
+5605,1126,2025-10-04,support_ticket,Said they're actively comparing providers because of a network outage in their area.
+5606,1126,2026-01-20,support_ticket,Escalated a delayed refund after two unresolved prior contacts.
+5607,1127,2026-06-25,csat_survey,10
+5608,1127,2026-06-28,billing_event,on_time_payment
+5609,1127,2026-06-30,support_ticket,"Followed up on confusion over plan inclusions from a prior chat, all sorted now."
+5610,1128,2025-04-12,support_ticket,"Followed up on trouble accessing their account online from a prior chat, all sorted now."
+5611,1128,2026-01-16,support_ticket,"Mentioned a billing error in passing, seemed satisfied once explained."
+5612,1128,2026-05-30,billing_event,plan_upgrade
+5613,1129,2024-03-10,csat_survey,8
+5614,1129,2024-06-30,support_ticket,"Asked a quick question about long wait times reaching support, resolved without any fuss."
+5615,1129,2024-10-16,support_ticket,"Reached out about unclear contract terms - nothing urgent, just wanted clarity."
+5616,1129,2025-02-19,billing_event,on_time_payment
+5617,1129,2025-07-31,support_ticket,"Called about dropped calls, said the support experience was quick and easy."
+5618,1129,2026-03-17,support_ticket,"Called about roaming charges from a recent trip, said the support experience was quick and easy."
+5619,1129,2026-04-24,billing_event,on_time_payment
+5620,1130,2026-06-07,support_ticket,"Asked a quick question about a delayed refund, resolved without any fuss."
+5621,1130,2026-06-09,csat_survey,7
+5622,1130,2026-07-09,support_ticket,"Called about confusion over plan inclusions, said the support experience was quick and easy."
+5623,1131,2026-06-21,billing_event,missed_payment
+5624,1131,2026-06-25,billing_event,late_payment
+5625,1131,2026-07-07,support_ticket,Said they're actively comparing providers because of a delayed refund.
+5626,1132,2024-07-27,csat_survey,7
+5627,1132,2024-11-29,csat_survey,7
+5628,1132,2025-04-20,support_ticket,"Asked how coverage issues at their new address would affect their next bill, no complaints raised."
+5629,1132,2025-09-05,billing_event,on_time_payment
+5630,1132,2025-10-28,support_ticket,"Asked a quick question about a delayed refund, resolved without any fuss."
+5631,1133,2023-12-26,csat_survey,7
+5632,1133,2024-05-31,support_ticket,"Mentioned a billing error in passing, seemed satisfied once explained."
+5633,1133,2024-06-19,csat_survey,8
+5634,1133,2024-12-13,csat_survey,10
+5635,1133,2025-07-20,csat_survey,9
+5636,1133,2026-01-15,support_ticket,"Reached out about unclear contract terms - nothing urgent, just wanted clarity."
+5637,1134,2026-01-29,csat_survey,10
+5638,1134,2026-01-30,billing_event,on_time_payment
+5639,1134,2026-05-18,support_ticket,"Asked how slow data speeds would affect their next bill, no complaints raised."
+5640,1135,2023-07-02,csat_survey,4
+5641,1135,2023-08-03,billing_event,on_time_payment
+5642,1135,2023-10-17,support_ticket,"Mentioned an unexpected price increase, and referenced a competitor's cheaper offer."
+5643,1135,2025-06-24,csat_survey,6
+5644,1135,2025-07-16,billing_event,plan_change
+5645,1135,2025-08-16,csat_survey,6
+5646,1135,2025-11-18,support_ticket,Queried a faulty modem/router and asked whether a better plan was available.
+5647,1135,2025-12-10,csat_survey,7
+5648,1136,2026-06-26,support_ticket,"Followed up on confusion over plan inclusions from a prior chat, all sorted now."
+5649,1136,2026-07-01,billing_event,plan_upgrade
+5650,1136,2026-07-06,support_ticket,"Followed up on the app crashing repeatedly from a prior chat, all sorted now."
+5651,1137,2026-06-15,csat_survey,4
+5652,1137,2026-06-16,support_ticket,Called about confusion over plan inclusions for the second time this month.
+5653,1137,2026-07-07,billing_event,late_payment
+5654,1138,2026-05-04,billing_event,plan_downgrade
+5655,1138,2026-05-12,support_ticket,Called again about a billing error - this is the third time it hasn't been resolved.
+5656,1138,2026-07-05,csat_survey,4
+5657,1139,2026-05-14,support_ticket,Queried dropped calls and asked whether a better plan was available.
+5658,1139,2026-06-03,support_ticket,Called about confusion over plan inclusions for the second time this month.
+5659,1139,2026-06-04,billing_event,plan_change
+5660,1140,2024-03-02,support_ticket,"Asked a quick question about a network outage in their area, resolved without any fuss."
+5661,1140,2024-09-03,billing_event,on_time_payment
+5662,1140,2024-12-01,csat_survey,7
+5663,1140,2025-03-26,support_ticket,"Called about a faulty modem/router, said the support experience was quick and easy."
+5664,1140,2026-02-07,support_ticket,"Followed up on coverage issues at their new address from a prior chat, all sorted now."
+5665,1140,2026-02-13,csat_survey,8
+5666,1141,2024-07-29,billing_event,on_time_payment
+5667,1141,2025-01-23,billing_event,on_time_payment
+5668,1141,2026-01-08,support_ticket,"Mentioned the app crashing repeatedly in passing, seemed satisfied once explained."
+5669,1141,2026-02-02,billing_event,on_time_payment
+5670,1141,2026-02-07,support_ticket,"Mentioned confusion over plan inclusions in passing, seemed satisfied once explained."
+5671,1142,2024-12-05,support_ticket,"Asked a quick question about a network outage in their area, resolved without any fuss."
+5672,1142,2024-12-13,support_ticket,"Reached out about trouble accessing their account online - nothing urgent, just wanted clarity."
+5673,1142,2025-05-30,billing_event,on_time_payment
+5674,1142,2025-10-31,billing_event,on_time_payment
+5675,1143,2025-08-25,support_ticket,Said they're actively comparing providers because of a network outage in their area.
+5676,1143,2025-10-06,csat_survey,4
+5677,1143,2026-03-23,csat_survey,3
+5678,1144,2024-02-20,billing_event,plan_upgrade
+5679,1144,2024-03-08,csat_survey,8
+5680,1144,2024-12-03,support_ticket,"Followed up on trouble accessing their account online from a prior chat, all sorted now."
+5681,1144,2024-12-20,support_ticket,"Mentioned slow data speeds in passing, seemed satisfied once explained."
+5682,1144,2025-01-11,csat_survey,9
+5683,1144,2025-11-30,support_ticket,"Asked how a delayed refund would affect their next bill, no complaints raised."
+5684,1144,2026-03-06,billing_event,on_time_payment
+5685,1145,2026-06-24,support_ticket,Queried an incorrect charge on their statement and asked whether a better plan was available.
+5686,1145,2026-07-01,csat_survey,6
+5687,1145,2026-07-09,support_ticket,"Reported an unexpected price increase, said the first fix attempt didn't fully work."
+5688,1146,2026-05-15,billing_event,late_payment
+5689,1146,2026-05-18,billing_event,missed_payment
+5690,1146,2026-05-26,csat_survey,4
+5691,1147,2025-08-06,csat_survey,5
+5692,1147,2025-08-16,billing_event,on_time_payment
+5693,1147,2025-11-26,csat_survey,4
+5694,1148,2025-09-01,csat_survey,7
+5695,1148,2025-09-28,billing_event,late_payment
+5696,1148,2025-11-02,billing_event,late_payment
+5697,1149,2025-08-13,support_ticket,Called about trouble accessing their account online for the second time this month.
+5698,1149,2026-01-12,billing_event,plan_change
+5699,1149,2026-04-19,support_ticket,"Reported roaming charges from a recent trip, said the first fix attempt didn't fully work."
+5700,1150,2026-06-09,billing_event,plan_upgrade
+5701,1150,2026-06-10,billing_event,on_time_payment
+5702,1150,2026-06-26,billing_event,on_time_payment
+5703,1151,2025-08-19,support_ticket,"Reached out about a delayed refund - nothing urgent, just wanted clarity."
+5704,1151,2026-02-21,billing_event,on_time_payment
+5705,1151,2026-06-07,billing_event,on_time_payment
+5706,1152,2023-05-27,billing_event,plan_upgrade
+5707,1152,2023-10-09,csat_survey,9
+5708,1152,2023-12-23,csat_survey,10
+5709,1152,2024-08-15,support_ticket,"Asked a quick question about the app crashing repeatedly, resolved without any fuss."
+5710,1152,2024-09-23,support_ticket,"Asked how long wait times reaching support would affect their next bill, no complaints raised."
+5711,1152,2024-11-21,billing_event,on_time_payment
+5712,1152,2025-03-30,billing_event,plan_upgrade
+5713,1152,2025-06-27,billing_event,on_time_payment
+5714,1152,2025-10-25,support_ticket,"Asked a quick question about roaming charges from a recent trip, resolved without any fuss."
+5715,1153,2024-07-31,support_ticket,Said they're actively comparing providers because of coverage issues at their new address.
+5716,1153,2025-01-20,csat_survey,1
+5717,1153,2025-02-19,csat_survey,2
+5718,1153,2025-10-21,support_ticket,Asked directly what it would take to cancel after ongoing roaming charges from a recent trip.
+5719,1153,2026-06-12,csat_survey,5
+5720,1154,2025-07-15,billing_event,missed_payment
+5721,1154,2025-10-07,support_ticket,Escalated trouble accessing their account online after two unresolved prior contacts.
+5722,1154,2026-02-26,billing_event,missed_payment
+5723,1154,2026-05-24,support_ticket,Escalated dropped calls after two unresolved prior contacts.
+5724,1155,2021-02-05,support_ticket,"Mentioned a delayed refund in passing, seemed satisfied once explained."
+5725,1155,2021-04-15,support_ticket,"Reached out about coverage issues at their new address - nothing urgent, just wanted clarity."
+5726,1155,2022-09-01,csat_survey,8
+5727,1155,2022-11-22,billing_event,on_time_payment
+5728,1155,2022-11-29,support_ticket,"Called about roaming charges from a recent trip, said the support experience was quick and easy."
+5729,1155,2022-12-14,support_ticket,"Called about a delayed refund, said the support experience was quick and easy."
+5730,1155,2024-01-21,support_ticket,"Asked how a delayed refund would affect their next bill, no complaints raised."
+5731,1155,2024-03-04,billing_event,on_time_payment
+5732,1155,2024-04-24,billing_event,on_time_payment
+5733,1155,2025-09-24,billing_event,plan_upgrade
+5734,1155,2026-02-26,support_ticket,"Asked how an unexpected price increase would affect their next bill, no complaints raised."
+5735,1155,2026-06-30,support_ticket,"Asked how a faulty modem/router would affect their next bill, no complaints raised."
+5736,1156,2025-03-02,csat_survey,5
+5737,1156,2025-04-15,support_ticket,"Reported slow data speeds, said they feel like a long-standing customer isn't valued."
+5738,1156,2025-12-11,support_ticket,"Expressed real frustration over roaming charges from a recent trip, said they're at their limit."
+5739,1156,2025-12-16,support_ticket,Escalated an incorrect charge on their statement after two unresolved prior contacts.
+5740,1156,2026-01-11,billing_event,plan_downgrade
+5741,1157,2025-11-25,billing_event,plan_change
+5742,1157,2026-01-09,billing_event,on_time_payment
+5743,1157,2026-05-02,support_ticket,"Mentioned unclear contract terms, and referenced a competitor's cheaper offer."
+5744,1158,2025-08-12,support_ticket,"Asked about trouble accessing their account online, sounded a little frustrated but stayed polite."
+5745,1158,2026-03-31,csat_survey,4
+5746,1158,2026-05-13,billing_event,on_time_payment
+5747,1159,2020-08-18,support_ticket,"Mentioned dropped calls in passing, seemed satisfied once explained."
+5748,1159,2020-09-21,support_ticket,"Asked how slow data speeds would affect their next bill, no complaints raised."
+5749,1159,2021-09-23,billing_event,plan_upgrade
+5750,1159,2022-02-16,billing_event,plan_upgrade
+5751,1159,2022-09-21,billing_event,plan_upgrade
+5752,1159,2024-04-18,billing_event,on_time_payment
+5753,1159,2024-05-10,billing_event,plan_upgrade
+5754,1159,2025-03-05,support_ticket,"Reached out about a network outage in their area - nothing urgent, just wanted clarity."
+5755,1159,2026-03-16,csat_survey,7
+5756,1159,2026-03-21,csat_survey,7
+5757,1159,2026-03-29,billing_event,on_time_payment
+5758,1159,2026-06-23,csat_survey,10
+5759,1160,2025-11-04,billing_event,plan_upgrade
+5760,1160,2026-01-03,billing_event,plan_upgrade
+5761,1160,2026-02-02,billing_event,on_time_payment
+5762,1161,2023-04-25,billing_event,on_time_payment
+5763,1161,2023-08-03,support_ticket,"Mentioned an unexpected price increase in passing, seemed satisfied once explained."
+5764,1161,2024-02-06,billing_event,on_time_payment
+5765,1161,2024-07-10,csat_survey,10
+5766,1161,2024-08-15,billing_event,on_time_payment
+5767,1161,2024-11-08,billing_event,on_time_payment
+5768,1161,2025-02-06,csat_survey,9
+5769,1161,2025-05-02,billing_event,on_time_payment
+5770,1161,2026-06-11,csat_survey,10
+5771,1162,2025-04-13,billing_event,plan_upgrade
+5772,1162,2025-06-27,support_ticket,"Asked how a faulty modem/router would affect their next bill, no complaints raised."
+5773,1162,2025-09-17,support_ticket,"Asked a quick question about roaming charges from a recent trip, resolved without any fuss."
+5774,1162,2025-12-02,support_ticket,"Asked a quick question about roaming charges from a recent trip, resolved without any fuss."
+5775,1162,2026-01-22,csat_survey,7
+5776,1162,2026-02-08,csat_survey,8
+5777,1163,2024-12-16,support_ticket,"Asked about unclear contract terms, sounded a little frustrated but stayed polite."
+5778,1163,2025-05-27,billing_event,plan_change
+5779,1163,2025-08-06,support_ticket,Called about a faulty modem/router for the second time this month.
+5780,1163,2026-03-07,support_ticket,Called about a faulty modem/router for the second time this month.
+5781,1163,2026-07-02,support_ticket,Queried long wait times reaching support and asked whether a better plan was available.
+5782,1164,2023-04-19,support_ticket,"Reported slow data speeds, said the first fix attempt didn't fully work."
+5783,1164,2023-05-07,support_ticket,"Asked about the app crashing repeatedly, sounded a little frustrated but stayed polite."
+5784,1164,2023-09-04,support_ticket,Queried an incorrect charge on their statement and asked whether a better plan was available.
+5785,1164,2023-10-12,billing_event,on_time_payment
+5786,1164,2025-02-12,support_ticket,"Mentioned coverage issues at their new address, and referenced a competitor's cheaper offer."
+5787,1164,2025-06-10,support_ticket,Queried an incorrect charge on their statement and asked whether a better plan was available.
+5788,1164,2025-06-23,billing_event,late_payment
+5789,1164,2026-05-19,support_ticket,"Asked about a network outage in their area, sounded a little frustrated but stayed polite."
+5790,1165,2026-01-31,csat_survey,10
+5791,1165,2026-02-01,billing_event,on_time_payment
+5792,1165,2026-03-16,billing_event,plan_upgrade
+5793,1166,2023-06-16,billing_event,on_time_payment
+5794,1166,2024-05-18,billing_event,on_time_payment
+5795,1166,2024-12-21,billing_event,on_time_payment
+5796,1166,2025-01-31,billing_event,plan_change
+5797,1166,2025-04-28,support_ticket,Raised an incorrect charge on their statement and wasn't fully satisfied with how it was handled.
+5798,1166,2025-05-05,csat_survey,4
+5799,1166,2025-11-21,billing_event,plan_change
+5800,1166,2026-06-23,billing_event,on_time_payment
+5801,1167,2020-09-07,csat_survey,7
+5802,1167,2020-12-09,support_ticket,"Mentioned an incorrect charge on their statement, and referenced a competitor's cheaper offer."
+5803,1167,2021-07-08,support_ticket,Queried a network outage in their area and asked whether a better plan was available.
+5804,1167,2021-11-02,csat_survey,6
+5805,1167,2023-02-02,billing_event,late_payment
+5806,1167,2023-05-15,billing_event,plan_change
+5807,1167,2023-12-01,csat_survey,4
+5808,1167,2024-09-10,support_ticket,"Asked about a faulty modem/router, sounded a little frustrated but stayed polite."
+5809,1167,2025-01-03,csat_survey,4
+5810,1167,2025-01-28,support_ticket,Called about roaming charges from a recent trip for the second time this month.
+5811,1167,2026-01-25,billing_event,plan_change
+5812,1167,2026-04-29,support_ticket,"Asked about coverage issues at their new address, sounded a little frustrated but stayed polite."
+5813,1168,2023-09-02,support_ticket,"Asked how the app crashing repeatedly would affect their next bill, no complaints raised."
+5814,1168,2023-09-19,support_ticket,"Mentioned dropped calls in passing, seemed satisfied once explained."
+5815,1168,2023-11-18,billing_event,on_time_payment
+5816,1168,2023-11-24,support_ticket,"Asked how coverage issues at their new address would affect their next bill, no complaints raised."
+5817,1168,2023-12-17,billing_event,on_time_payment
+5818,1168,2024-01-27,support_ticket,"Mentioned trouble accessing their account online in passing, seemed satisfied once explained."
+5819,1168,2026-07-06,billing_event,on_time_payment
+5820,1169,2025-09-20,billing_event,on_time_payment
+5821,1169,2025-12-18,billing_event,on_time_payment
+5822,1169,2026-06-10,support_ticket,"Asked a quick question about slow data speeds, resolved without any fuss."
+5823,1170,2023-10-25,billing_event,plan_change
+5824,1170,2023-11-21,support_ticket,"Asked about a network outage in their area, sounded a little frustrated but stayed polite."
+5825,1170,2024-09-02,csat_survey,7
+5826,1170,2025-04-29,billing_event,plan_change
+5827,1170,2026-01-02,support_ticket,"Mentioned dropped calls, and referenced a competitor's cheaper offer."
+5828,1170,2026-05-20,billing_event,on_time_payment
+5829,1170,2026-05-22,support_ticket,Queried coverage issues at their new address and asked whether a better plan was available.
+5830,1171,2026-06-24,support_ticket,"Mentioned a faulty modem/router, and referenced a competitor's cheaper offer."
+5831,1171,2026-06-26,csat_survey,5
+5832,1171,2026-07-02,billing_event,late_payment
+5833,1172,2023-01-20,support_ticket,"Reported a billing error, said the first fix attempt didn't fully work."
+5834,1172,2023-08-12,billing_event,late_payment
+5835,1172,2023-12-13,billing_event,late_payment
+5836,1172,2024-01-17,billing_event,late_payment
+5837,1172,2024-10-30,csat_survey,7
+5838,1172,2024-12-18,csat_survey,4
+5839,1172,2025-09-10,csat_survey,5
+5840,1172,2026-01-17,csat_survey,7
+5841,1173,2025-11-02,support_ticket,"Called about a network outage in their area, said the support experience was quick and easy."
+5842,1173,2026-01-05,csat_survey,8
+5843,1173,2026-04-26,support_ticket,"Asked a quick question about an unexpected price increase, resolved without any fuss."
+5844,1174,2026-06-20,billing_event,on_time_payment
+5845,1174,2026-06-23,csat_survey,7
+5846,1174,2026-07-05,csat_survey,9
+5847,1175,2021-12-25,support_ticket,"Reported long wait times reaching support, said the first fix attempt didn't fully work."
+5848,1175,2022-07-16,support_ticket,"Mentioned the app crashing repeatedly, and referenced a competitor's cheaper offer."
+5849,1175,2022-12-14,billing_event,late_payment
+5850,1175,2023-03-12,billing_event,on_time_payment
+5851,1175,2023-10-20,support_ticket,"Asked about unclear contract terms, sounded a little frustrated but stayed polite."
+5852,1175,2023-12-26,support_ticket,Raised a network outage in their area and wasn't fully satisfied with how it was handled.
+5853,1175,2024-07-16,csat_survey,5
+5854,1175,2024-09-13,support_ticket,"Reported confusion over plan inclusions, said the first fix attempt didn't fully work."
+5855,1175,2024-11-22,support_ticket,"Asked about slow data speeds, sounded a little frustrated but stayed polite."
+5856,1175,2025-06-12,csat_survey,4
+5857,1175,2026-02-17,support_ticket,Raised a billing error and wasn't fully satisfied with how it was handled.
+5858,1176,2020-12-23,support_ticket,Called again about coverage issues at their new address - this is the third time it hasn't been resolved.
+5859,1176,2021-07-09,support_ticket,Said they're actively comparing providers because of long wait times reaching support.
+5860,1176,2021-09-03,support_ticket,Escalated long wait times reaching support after two unresolved prior contacts.
+5861,1176,2021-09-14,csat_survey,4
+5862,1176,2022-04-29,billing_event,missed_payment
+5863,1176,2022-08-05,billing_event,late_payment
+5864,1176,2022-11-13,support_ticket,Asked directly what it would take to cancel after ongoing dropped calls.
+5865,1176,2023-03-01,billing_event,late_payment
+5866,1176,2023-04-25,csat_survey,2
+5867,1176,2024-08-14,billing_event,missed_payment
+5868,1176,2024-09-17,billing_event,missed_payment
+5869,1176,2024-10-08,support_ticket,Said they're actively comparing providers because of trouble accessing their account online.
+5870,1177,2020-07-24,csat_survey,8
+5871,1177,2020-08-16,support_ticket,"Asked a quick question about coverage issues at their new address, resolved without any fuss."
+5872,1177,2020-11-16,billing_event,plan_upgrade
+5873,1177,2021-01-07,billing_event,on_time_payment
+5874,1177,2021-07-07,support_ticket,"Asked how a delayed refund would affect their next bill, no complaints raised."
+5875,1177,2022-03-15,billing_event,on_time_payment
+5876,1177,2023-01-15,support_ticket,"Reached out about trouble accessing their account online - nothing urgent, just wanted clarity."
+5877,1177,2023-08-04,support_ticket,"Called about a network outage in their area, said the support experience was quick and easy."
+5878,1177,2023-10-04,billing_event,on_time_payment
+5879,1177,2023-10-16,support_ticket,"Reached out about trouble accessing their account online - nothing urgent, just wanted clarity."
+5880,1177,2024-01-26,csat_survey,9
+5881,1177,2024-04-11,billing_event,on_time_payment
+5882,1178,2025-08-24,csat_survey,4
+5883,1178,2026-05-25,support_ticket,"Mentioned the app crashing repeatedly, and referenced a competitor's cheaper offer."
+5884,1178,2026-07-08,billing_event,on_time_payment
+5885,1179,2026-01-02,billing_event,on_time_payment
+5886,1179,2026-05-21,billing_event,on_time_payment
+5887,1179,2026-06-23,support_ticket,"Followed up on slow data speeds from a prior chat, all sorted now."
+5888,1180,2024-02-26,support_ticket,Queried a faulty modem/router and asked whether a better plan was available.
+5889,1180,2024-03-26,support_ticket,"Reported a delayed refund, said the first fix attempt didn't fully work."
+5890,1180,2024-06-15,billing_event,late_payment
+5891,1180,2024-11-25,billing_event,on_time_payment
+5892,1180,2025-04-06,support_ticket,Raised an unexpected price increase and wasn't fully satisfied with how it was handled.
+5893,1180,2025-11-05,support_ticket,Queried confusion over plan inclusions and asked whether a better plan was available.
+5894,1180,2025-11-27,csat_survey,5

@@ -1,0 +1,181 @@
+customer_id,join_date,tenure_months,plan_type,monthly_charge,payment_method,region,risk_level,planted_outcome
+1001,2025-08-09,11,One year,51.66,Direct debit,QLD,Low,Retained
+1002,2026-03-09,4,Month-to-month,78.83,Credit card,SA,High,Churned
+1003,2026-06-09,1,Month-to-month,78.35,Direct debit,SA,Low,Retained
+1004,2024-02-09,29,One year,77.13,Credit card,WA,Low,Retained
+1005,2026-06-09,1,Two year,48.03,Direct debit,NSW,Low,Retained
+1006,2026-03-09,4,Month-to-month,68.7,Mailed cheque,QLD,High,Churned
+1007,2025-11-09,8,Month-to-month,43.65,Direct debit,QLD,Medium,Retained
+1008,2025-11-09,8,Month-to-month,86.4,Mailed cheque,WA,Medium,Churned
+1009,2024-09-09,22,One year,59.86,Bank transfer,QLD,Medium,Retained
+1010,2025-09-09,10,Month-to-month,66.09,Direct debit,QLD,Medium,Retained
+1011,2025-05-09,14,Two year,47.45,Direct debit,WA,Low,Retained
+1012,2025-02-09,17,Month-to-month,82.17,Direct debit,QLD,Medium,Retained
+1013,2024-10-09,21,Month-to-month,76.47,Credit card,SA,Low,Retained
+1014,2026-03-09,4,Month-to-month,68.81,Mailed cheque,SA,Medium,Churned
+1015,2026-06-09,1,One year,57.8,Direct debit,VIC,Low,Retained
+1016,2026-05-09,2,Month-to-month,86.37,Mailed cheque,SA,Low,Retained
+1017,2024-04-09,27,One year,52.74,Direct debit,WA,Medium,Churned
+1018,2025-03-09,16,One year,63.06,Credit card,SA,Low,Retained
+1019,2026-06-09,1,Month-to-month,72.25,Mailed cheque,NSW,Low,Retained
+1020,2024-05-09,26,Month-to-month,79.67,Direct debit,NSW,Low,Retained
+1021,2025-11-09,8,Month-to-month,108.34,Direct debit,WA,High,Retained
+1022,2026-03-09,4,Two year,69.32,Direct debit,VIC,Low,Retained
+1023,2020-07-09,72,Month-to-month,77.62,Credit card,VIC,Medium,Churned
+1024,2021-06-09,61,Month-to-month,85.58,Credit card,QLD,Medium,Retained
+1025,2026-05-09,2,Month-to-month,62.89,Direct debit,QLD,Low,Retained
+1026,2025-12-09,7,Month-to-month,56.0,Direct debit,NSW,Medium,Retained
+1027,2023-01-09,42,Month-to-month,58.84,Direct debit,QLD,Low,Retained
+1028,2025-01-09,18,Month-to-month,64.43,Mailed cheque,QLD,Medium,Churned
+1029,2026-04-09,3,One year,71.99,Direct debit,WA,High,Retained
+1030,2023-12-09,31,Month-to-month,85.65,Direct debit,WA,Low,Retained
+1031,2023-08-09,35,Month-to-month,72.51,Credit card,NSW,Medium,Retained
+1032,2026-05-09,2,One year,57.52,Credit card,WA,Low,Retained
+1033,2022-08-09,47,Month-to-month,56.9,Credit card,VIC,Medium,Churned
+1034,2026-06-09,1,Month-to-month,88.2,Credit card,SA,Medium,Churned
+1035,2025-11-09,8,One year,79.16,Direct debit,VIC,Low,Retained
+1036,2024-07-09,24,Month-to-month,64.22,Credit card,NSW,Medium,Retained
+1037,2022-03-09,52,Two year,42.55,Credit card,NSW,Medium,Retained
+1038,2024-02-09,29,Month-to-month,74.09,Direct debit,WA,High,Churned
+1039,2023-09-09,34,Two year,72.95,Direct debit,VIC,High,Churned
+1040,2025-03-09,16,Two year,59.06,Direct debit,NSW,Low,Retained
+1041,2025-02-09,17,Month-to-month,70.22,Direct debit,NSW,Low,Retained
+1042,2026-05-09,2,Two year,54.27,Bank transfer,VIC,High,Churned
+1043,2026-06-09,1,Two year,37.97,Mailed cheque,NSW,Low,Retained
+1044,2025-02-09,17,Month-to-month,87.51,Direct debit,VIC,Low,Churned
+1045,2021-10-09,57,Month-to-month,68.59,Mailed cheque,WA,High,Churned
+1046,2023-10-09,33,One year,47.06,Bank transfer,WA,Medium,Churned
+1047,2026-01-09,6,Two year,52.45,Credit card,SA,Medium,Churned
+1048,2026-03-09,4,Month-to-month,69.88,Credit card,SA,High,Churned
+1049,2021-04-09,63,Month-to-month,81.02,Direct debit,SA,High,Churned
+1050,2022-06-09,49,Month-to-month,88.9,Mailed cheque,SA,High,Churned
+1051,2023-04-09,39,One year,81.46,Direct debit,SA,Low,Retained
+1052,2022-01-09,54,Month-to-month,77.11,Credit card,QLD,High,Churned
+1053,2025-10-09,9,One year,61.92,Direct debit,QLD,High,Retained
+1054,2025-06-09,13,Month-to-month,70.59,Credit card,SA,Low,Retained
+1055,2023-03-09,40,Month-to-month,43.14,Direct debit,QLD,Medium,Retained
+1056,2026-01-09,6,Month-to-month,79.15,Direct debit,SA,Low,Retained
+1057,2026-04-09,3,Two year,60.44,Credit card,VIC,Low,Retained
+1058,2025-10-09,9,Two year,53.01,Direct debit,NSW,Medium,Retained
+1059,2025-02-09,17,One year,53.68,Direct debit,QLD,Medium,Retained
+1060,2020-07-09,72,Month-to-month,91.85,Credit card,QLD,Low,Retained
+1061,2020-07-09,72,Two year,54.78,Direct debit,WA,Low,Retained
+1062,2025-11-09,8,Month-to-month,54.92,Direct debit,QLD,High,Churned
+1063,2025-11-09,8,One year,66.23,Credit card,VIC,High,Churned
+1064,2025-03-09,16,Two year,49.81,Credit card,QLD,Low,Retained
+1065,2026-06-09,1,Month-to-month,80.73,Direct debit,VIC,Low,Retained
+1066,2026-01-09,6,Month-to-month,71.89,Direct debit,SA,Low,Retained
+1067,2026-04-09,3,One year,69.08,Direct debit,NSW,High,Retained
+1068,2026-01-09,6,Two year,54.91,Bank transfer,VIC,Medium,Retained
+1069,2024-05-09,26,One year,55.7,Direct debit,NSW,Medium,Retained
+1070,2023-12-09,31,Month-to-month,84.28,Bank transfer,WA,High,Churned
+1071,2025-08-09,11,Month-to-month,91.86,Direct debit,NSW,High,Churned
+1072,2025-01-09,18,Month-to-month,91.71,Direct debit,VIC,Low,Retained
+1073,2026-05-09,2,One year,59.08,Direct debit,SA,Low,Retained
+1074,2026-03-09,4,Two year,66.08,Direct debit,SA,Low,Retained
+1075,2026-06-09,1,Month-to-month,95.48,Direct debit,QLD,High,Retained
+1076,2026-06-09,1,Month-to-month,85.48,Bank transfer,NSW,High,Churned
+1077,2025-02-09,17,Month-to-month,82.79,Mailed cheque,SA,High,Retained
+1078,2026-03-09,4,One year,50.33,Direct debit,WA,High,Churned
+1079,2024-03-09,28,Month-to-month,82.45,Direct debit,VIC,Low,Retained
+1080,2026-04-09,3,Month-to-month,73.07,Direct debit,WA,Low,Retained
+1081,2025-09-09,10,Month-to-month,70.72,Credit card,WA,Medium,Retained
+1082,2024-06-09,25,One year,71.67,Direct debit,SA,Low,Retained
+1083,2023-03-09,40,Month-to-month,91.37,Bank transfer,SA,Low,Retained
+1084,2026-01-09,6,Month-to-month,105.47,Direct debit,WA,High,Retained
+1085,2026-05-09,2,One year,47.72,Credit card,QLD,Low,Retained
+1086,2025-09-09,10,Month-to-month,89.29,Bank transfer,NSW,Low,Retained
+1087,2023-12-09,31,Month-to-month,82.41,Direct debit,NSW,Low,Retained
+1088,2026-05-09,2,One year,79.6,Credit card,SA,Medium,Retained
+1089,2026-03-09,4,Month-to-month,77.72,Direct debit,VIC,Medium,Retained
+1090,2026-06-09,1,Two year,65.17,Bank transfer,NSW,High,Retained
+1091,2026-05-09,2,Month-to-month,77.1,Direct debit,NSW,Low,Retained
+1092,2024-03-09,28,Month-to-month,60.4,Credit card,SA,Low,Retained
+1093,2024-06-09,25,Two year,63.81,Bank transfer,SA,Medium,Retained
+1094,2026-01-09,6,Month-to-month,63.55,Mailed cheque,WA,Medium,Retained
+1095,2025-10-09,9,Month-to-month,84.24,Direct debit,NSW,Low,Retained
+1096,2022-10-09,45,One year,80.22,Credit card,NSW,Low,Retained
+1097,2024-06-09,25,Month-to-month,64.59,Direct debit,QLD,Low,Retained
+1098,2025-08-09,11,Month-to-month,76.75,Direct debit,NSW,Low,Retained
+1099,2025-12-09,7,Month-to-month,85.54,Credit card,WA,High,Churned
+1100,2024-08-09,23,Month-to-month,72.12,Bank transfer,VIC,Medium,Retained
+1101,2023-05-09,38,Month-to-month,107.81,Direct debit,QLD,High,Churned
+1102,2025-03-09,16,Two year,56.13,Bank transfer,SA,Low,Retained
+1103,2026-02-09,5,One year,53.44,Direct debit,NSW,Low,Retained
+1104,2026-06-09,1,Month-to-month,86.73,Credit card,WA,Medium,Retained
+1105,2024-07-09,24,Two year,53.51,Mailed cheque,SA,High,Churned
+1106,2020-07-09,72,One year,73.88,Direct debit,WA,High,Churned
+1107,2020-07-09,72,Month-to-month,69.57,Direct debit,NSW,Low,Retained
+1108,2025-08-09,11,Two year,64.32,Direct debit,WA,Low,Retained
+1109,2022-10-09,45,Month-to-month,63.89,Credit card,QLD,Medium,Churned
+1110,2024-12-09,19,Two year,48.84,Direct debit,VIC,Low,Retained
+1111,2021-01-09,66,Month-to-month,82.56,Direct debit,NSW,Low,Retained
+1112,2026-05-09,2,Two year,76.16,Credit card,QLD,Low,Retained
+1113,2024-09-09,22,One year,77.69,Credit card,VIC,Low,Retained
+1114,2023-11-09,32,Month-to-month,75.62,Credit card,QLD,Medium,Retained
+1115,2024-03-09,28,Month-to-month,63.49,Mailed cheque,NSW,High,Churned
+1116,2025-11-09,8,One year,81.58,Direct debit,QLD,Low,Retained
+1117,2023-04-09,39,Month-to-month,78.65,Mailed cheque,VIC,High,Churned
+1118,2021-09-09,58,Month-to-month,78.09,Credit card,QLD,High,Churned
+1119,2025-02-09,17,Month-to-month,92.25,Direct debit,QLD,Medium,Retained
+1120,2024-06-09,25,One year,65.09,Direct debit,SA,Low,Retained
+1121,2024-02-09,29,Two year,57.79,Credit card,WA,Medium,Retained
+1122,2025-10-09,9,One year,67.11,Direct debit,NSW,Low,Retained
+1123,2025-08-09,11,Two year,56.98,Direct debit,WA,Medium,Retained
+1124,2026-06-09,1,Month-to-month,64.73,Credit card,QLD,Medium,Churned
+1125,2025-04-09,15,One year,43.54,Direct debit,SA,Low,Retained
+1126,2024-10-09,21,Month-to-month,79.29,Mailed cheque,VIC,High,Churned
+1127,2026-06-09,1,One year,54.28,Direct debit,WA,Low,Retained
+1128,2025-02-09,17,One year,60.98,Direct debit,NSW,Low,Retained
+1129,2023-08-09,35,One year,71.59,Direct debit,SA,Low,Retained
+1130,2026-05-09,2,One year,49.75,Direct debit,WA,Low,Retained
+1131,2026-06-09,1,Month-to-month,103.67,Direct debit,VIC,High,Retained
+1132,2024-07-09,24,One year,87.12,Direct debit,WA,Low,Retained
+1133,2023-12-09,31,One year,65.18,Credit card,VIC,Low,Retained
+1134,2025-10-09,9,Month-to-month,80.3,Direct debit,SA,Low,Churned
+1135,2023-05-09,38,Month-to-month,69.67,Direct debit,NSW,Medium,Retained
+1136,2026-06-09,1,Month-to-month,54.97,Direct debit,QLD,Low,Retained
+1137,2026-06-09,1,Month-to-month,65.74,Direct debit,WA,Medium,Churned
+1138,2026-03-09,4,Month-to-month,94.94,Credit card,VIC,High,Churned
+1139,2026-03-09,4,Two year,58.81,Direct debit,NSW,Medium,Retained
+1140,2024-01-09,30,One year,45.65,Bank transfer,NSW,Low,Retained
+1141,2024-06-09,25,Two year,59.53,Direct debit,SA,Low,Retained
+1142,2024-09-09,22,One year,84.82,Credit card,VIC,Low,Retained
+1143,2025-06-09,13,Month-to-month,66.23,Credit card,NSW,High,Churned
+1144,2023-09-09,34,Month-to-month,59.64,Direct debit,SA,Low,Retained
+1145,2026-06-09,1,Month-to-month,72.15,Direct debit,WA,Medium,Churned
+1146,2026-05-09,2,Month-to-month,97.46,Bank transfer,SA,High,Retained
+1147,2025-03-09,16,Month-to-month,59.46,Credit card,NSW,Medium,Retained
+1148,2025-06-09,13,Month-to-month,73.74,Direct debit,QLD,Medium,Retained
+1149,2025-07-09,12,Two year,73.52,Direct debit,WA,Medium,Retained
+1150,2026-06-09,1,Two year,70.88,Credit card,WA,Low,Retained
+1151,2025-08-09,11,Two year,55.7,Credit card,SA,Low,Retained
+1152,2022-09-09,46,Two year,83.18,Bank transfer,SA,Low,Retained
+1153,2024-06-09,25,One year,62.57,Bank transfer,SA,High,Churned
+1154,2024-10-09,21,Month-to-month,75.73,Credit card,QLD,High,Churned
+1155,2020-12-09,67,One year,42.23,Credit card,VIC,Low,Retained
+1156,2024-07-09,24,Month-to-month,90.37,Direct debit,NSW,High,Churned
+1157,2025-05-09,14,Month-to-month,83.24,Mailed cheque,SA,Medium,Churned
+1158,2025-08-09,11,Month-to-month,75.85,Direct debit,WA,Medium,Retained
+1159,2020-07-09,72,Month-to-month,69.16,Bank transfer,WA,Low,Retained
+1160,2025-10-09,9,Month-to-month,77.49,Bank transfer,WA,Low,Retained
+1161,2022-11-09,44,Month-to-month,67.53,Mailed cheque,WA,Low,Retained
+1162,2024-03-09,28,Month-to-month,70.73,Credit card,NSW,Low,Retained
+1163,2024-08-09,23,Month-to-month,79.34,Direct debit,NSW,Medium,Retained
+1164,2023-04-09,39,Month-to-month,81.98,Direct debit,NSW,Medium,Retained
+1165,2025-12-09,7,Month-to-month,81.62,Direct debit,WA,Low,Retained
+1166,2023-04-09,39,One year,56.48,Direct debit,SA,Medium,Retained
+1167,2020-07-09,72,Two year,33.55,Direct debit,WA,Medium,Retained
+1168,2023-08-09,35,Month-to-month,60.35,Direct debit,QLD,Low,Retained
+1169,2025-09-09,10,One year,83.63,Bank transfer,WA,Low,Retained
+1170,2023-10-09,33,One year,59.73,Credit card,WA,Medium,Retained
+1171,2026-05-09,2,Two year,55.15,Direct debit,WA,Medium,Retained
+1172,2023-01-09,42,Month-to-month,86.17,Credit card,WA,Medium,Retained
+1173,2025-10-09,9,Two year,52.13,Mailed cheque,WA,Low,Retained
+1174,2026-06-09,1,Two year,65.25,Direct debit,VIC,Low,Retained
+1175,2021-11-09,56,Month-to-month,71.75,Credit card,NSW,Medium,Retained
+1176,2020-08-09,71,Month-to-month,67.64,Credit card,QLD,High,Churned
+1177,2020-07-09,72,One year,87.95,Bank transfer,SA,Low,Retained
+1178,2025-05-09,14,One year,77.78,Bank transfer,SA,Medium,Churned
+1179,2025-11-09,8,One year,79.46,Mailed cheque,NSW,Low,Retained
+1180,2023-10-09,33,Month-to-month,60.64,Credit card,VIC,Medium,Retained
