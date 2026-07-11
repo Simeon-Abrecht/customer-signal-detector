@@ -11,6 +11,8 @@ Run with: streamlit run dashboard/app.py
  
 import streamlit as st
 import pandas as pd
+import plotly.graph_objects as go
+import plotly.graph_objects as go
  
 st.set_page_config(page_title="Customer Signal Detector", layout="wide")
  
@@ -89,6 +91,34 @@ def main():
     c3.metric("Medium risk", medium)
     c4.metric("Data gap (low evidence)", data_gap)
     c5.metric("Average risk score", f"{avg_score:.1f}")
+ 
+    # --- Risk tier distribution chart (satisfies the brief's "visual risk heatmap" enhancement) ---
+    st.write("")
+    tier_order = ["Data gap", "Low", "Medium", "High"]  # ascending risk, left to right
+    tier_counts = combined["risk_tier"].value_counts().reindex(tier_order, fill_value=0)
+ 
+    fig = go.Figure(
+        data=[
+            go.Bar(
+                x=tier_order,
+                y=tier_counts.values,
+                marker_color=[TIER_COLORS[t] for t in tier_order],
+                text=tier_counts.values,
+                textposition="outside",
+            )
+        ]
+    )
+    fig.update_layout(
+        title={"text": "Risk Tier Distribution", "x": 0.5, "xanchor": "center"},
+        xaxis_title=None,
+        yaxis_title="Number of customers",
+        height=320,
+        margin=dict(t=60, b=20, l=20, r=20),
+        showlegend=False,
+    )
+ 
+    with st.container(border=True):
+        st.plotly_chart(fig, use_container_width=True)
  
     st.divider()
  
