@@ -1,0 +1,181 @@
+customer_id,rationale,suggested_action
+1042,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive CSAT outreach
+1084,Customer explicitly asked about cancellation and has reached tolerance limit. Recent missed payment suggests financial stress or disengagement. No positive recent interactions to offset concerns.,"Proactive outreach offering service review, billing assistance, or loyalty incentive within 48 hours."
+1099,Customer explicitly asked about cancellation and has billing issues. Recent intent to leave combined with missed payments and feeling undervalued creates high churn risk.,Offer loyalty discount or service upgrade; discuss billing concerns and payment options immediately.
+1067,"Customer explicitly stated they're at their limit with service issues, has a very recent low satisfaction score (3/10), and missed their latest payment. Multiple critical signals suggest imminent churn risk.",Contact customer immediately to address service concerns and discuss payment issue before they leave.
+1063,Recent missed payments (June 2026) combined with very low satisfaction score (3/10 in March) indicate serious financial or service issues.,Contact customer immediately to discuss payment difficulties and service concerns; offer payment plan or service review.
+1006,"Customer explicitly considering leaving, combined with recent missed payment and history of unresolved service issues. No recent positive interactions to offset concerns.",Immediate outreach offering service recovery credit and dedicated support to resolve outstanding issues.
+1115,"Customer explicitly considering leaving (Intent: 100) with recent severe dissatisfaction (2/10 CSAT), unresolved issues, and missed payments. Multiple risk signals converging.",Immediate outreach with service recovery offer and dedicated support to resolve outstanding issues within 48 hours.
+1117,"Customer explicitly considering leaving (Intent: 100), recent very low satisfaction (1/10), and recent payment issues signal imminent churn risk despite calm tone.",Immediate outreach offering service credit or plan adjustment to address core dissatisfaction before they switch.
+1052,"Customer shows critical risk signals: recent missed payment, lowest CSAT score (2/10) in Jan 2026, and most recent support note explicitly indicates unresolved issues and likelihood of switching.",Contact customer immediately to resolve outstanding payment and address the unresolved service issue from March 2026 contact.
+1106,"Customer shows critical risk across all dimensions: recent missed payments, very low satisfaction (3/10), explicit statements about being ""at their limit,"" and ongoing unresolved support issues causing frustration.",Immediate outreach to discuss payment plan options and escalate service issues to prevent churn.
+1176,"Customer explicitly comparing providers (most recent), perfect intent score, recurring missed payments since 2024, and very low historical CSAT (2/10). Clear churn risk.","Immediate outreach offering service review, billing assistance, and retention incentive within 48 hours."
+1154,Recent missed payments combined with multiple unresolved support issues and explicit switching intent in latest interaction indicate high churn risk.,Immediate outreach offering payment plan and dedicated support to resolve outstanding issues.
+1039,"Customer explicitly considering leaving (Intent: 100), very dissatisfied (CSAT 3/10), with recent billing issues and unresolved support problems creating compounding frustration.",Immediate outreach with service recovery offer and dedicated support to resolve outstanding billing/service issues.
+1126,Customer explicitly stated they're comparing providers and shows escalating frustration across recent interactions with unresolved issues and service failures.,Immediate outreach with service recovery offer and dedicated support contact to address root cause of failures.
+1062,"Customer explicitly stated intent to leave (100 score) in recent support interaction. Despite moderate satisfaction history, most recent contact shows they feel undervalued and unheard after repeated unresolved issues.",Proactive outreach from retention specialist with service recovery offer and escalation path for their unresolved issue.
+1050,"Customer explicitly considering leaving with recent ""at limit"" statement. Multiple missed payments and low satisfaction scores compound risk. Immediate intervention needed.",Contact customer today to discuss service issues and payment plan options before they cancel.
+1118,"Customer explicitly considering leaving with recent unresolved issues, latest CSAT 1/10, recent plan downgrade, and history of payment problems.",Immediate outreach to resolve outstanding support issue and offer service recovery or retention incentive.
+1029,Customer's most recent interactions show explicit intent to leave (100/100 risk) due to unresolved issues and unexpected charges repeatedly raised.,Immediately escalate to retention specialist for service recovery and resolution of outstanding billing/technical issues.
+1038,"Customer explicitly considering leaving (Intent: 100) with recent billing problems, low satisfaction (3/10), and unresolved support issues indicating frustration and switching likelihood.",Contact immediately to resolve billing issues and offer service recovery or retention incentive.
+1153,"Customer explicitly asked about cancellation and is actively comparing providers. Recent CSAT scores are very low (5/10), and intent to leave score is critical at 100.",Contact customer immediately to understand coverage concerns and offer service improvements or retention incentives before they switch.
+1021,"Customer explicitly asked about cancellation after price increase and recently stated they're ""at their limit."" Combined with low satisfaction (4/10), they show clear intent to leave.",Offer immediate retention incentive (discount/credit) and schedule call to address specific pain points before they cancel.
+1070,"Customer explicitly asked about cancellation after recent service failure and refund delay. Combined with poor satisfaction (5/10), billing problems, and history of considering alternatives.",Contact immediately to address service failure and refund delay; offer service credit or plan adjustment to retain.
+1105,"Customer explicitly considering leaving (recent support notes) with active provider comparison, combined with late payment and plan downgrade. High intent to churn.",Immediate outreach with service recovery offer and retention incentive before competitor conversion.
+1138,"Customer explicitly considering leaving (intent score 100), combined with recent plan downgrade, low satisfaction (4/10), and unresolved support issues. Most recent interaction shows active frustration.",Proactive outreach to understand unresolved issues and offer service recovery or retention incentive within 48 hours.
+1075,"Customer explicitly stated feeling undervalued (highest-weight intent signal at 100), combined with recent late payments and neutral sentiment. No satisfaction data to offset concerns.",Offer loyalty discount or service upgrade to demonstrate value and address payment friction immediately.
+1053,"Customer explicitly stated they're comparing providers (highest weight evidence), combined with recent payment issues and neutral support tone. No satisfaction data to offset concerns.",Contact customer immediately to address contract concerns and discuss retention options before they switch.
+1078,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive CSAT outreach
+1131,"Customer explicitly stated they're comparing providers (most recent evidence). Combined with recent missed/late payments and neutral support tone, they show clear intent to leave.",Contact immediately with retention offer; address billing issues and service concerns proactively.
+1146,Recent missed and late payments combined with very low satisfaction score (4/10) indicate financial stress and dissatisfaction. No recent support contact to assess current sentiment.,Contact customer to discuss payment difficulties and service concerns; offer payment plan or service review.
+1002,"Customer explicitly stated they're comparing providers and recent support shows unresolved frustration. Combined with late payment, they're actively considering leaving.",Offer service credit and escalate to senior support to resolve outstanding issues within 48 hours.
+1076,Customer explicitly stated intent to leave (100/100 risk) in most recent interaction. Low satisfaction scores (3-5/10) and unresolved repeated issues compound churn risk.,Immediate outreach with service recovery offer and escalation to resolve the core issue within 48 hours.
+1045,"Customer explicitly stated feeling undervalued in recent interaction and has history of considering leaving. Combined with payment issues and low satisfaction scores, churn risk is critical.",Offer loyalty discount or service upgrade with personal outreach from retention specialist within 48 hours.
+1049,"Customer explicitly comparing providers and considering switching (most recent), combined with very low satisfaction (3/10) and chronic payment issues. Immediate intervention needed.",Contact customer today to address coverage concerns and discuss service improvements or retention offers.
+1077,"Customer explicitly considering leaving (Intent: 100), combined with very low recent satisfaction (4/10), unresolved support issues, and payment problems. Most recent evidence shows active dissatisfaction.",Immediate outreach with service recovery offer and dedicated support contact to resolve outstanding issues.
+1101,Recent late payment and consistently very low satisfaction scores (1-2/10) indicate serious dissatisfaction despite calm support tone. Payment issues suggest financial strain or service value concerns.,Contact customer directly to discuss service issues and payment difficulties; offer plan adjustment or retention incentive.
+1143,"Customer explicitly stated they're comparing providers (most recent evidence). Recent CSAT scores are very low (3/10, 4/10), indicating deep dissatisfaction with service.",Contact customer immediately to understand service failure details and offer service recovery or retention incentive.
+1156,"Customer explicitly stated they're ""at their limit"" in recent support contact and has since downgraded plan. Combined with low CSAT (5/10) and unresolved billing issues, churn risk is critical.",Contact customer within 24 hours with billing resolution offer and loyalty retention incentive to prevent immediate churn.
+1009,"Customer explicitly mentioned considering a competitor with cheaper pricing in their most recent support interaction, combined with recent late payment history, indicating active churn risk.",Offer targeted retention discount or loyalty incentive within 48 hours to address price sensitivity.
+1171,"Customer explicitly mentioned considering a competitor with cheaper pricing in their most recent interaction, combined with low satisfaction (5/10) and recent late payment.",Offer targeted discount or loyalty incentive within 24 hours to address price sensitivity before they switch.
+1090,Customer explicitly considering leaving (Intent: 100) with recent unresolved billing issues and low satisfaction (5/10). Most recent interaction shows ongoing frustration.,Proactively contact customer within 24 hours to resolve billing issue and offer retention incentive.
+1048,"Customer explicitly stated they're at their limit with unresolved issues across multiple contacts. Most recent CSAT is very low (5/10) and intent score is maximal, indicating high churn risk.",Proactive outreach with service recovery offer and escalation to senior support within 24 hours.
+1071,"Customer explicitly stated they're comparing providers (most recent evidence), combined with low satisfaction (5/10) and recent late payment. High switching intent is the primary concern.",Contact customer immediately with retention offer or service improvement plan to address stated concerns before they switch.
+1014,"Customer showed active interest in switching (mentioned competitor pricing) in March, followed by service/billing dissatisfaction in May-June. Recent refund delay suggests unresolved issues.",Contact customer immediately to resolve refund delay and address service concerns before they switch.
+1058,"Customer explicitly mentioned switching to a cheaper competitor in their most recent interaction. Combined with low satisfaction (7/10) and recent late payment, they're actively evaluating alternatives.",Offer a loyalty discount or service upgrade within 24 hours to demonstrate value and address price concerns.
+1031,"Customer explicitly mentioned competitor and shows intent to switch (73/100). Recent late payment, low satisfaction (4/10), and service issues compound risk.","Proactive outreach offering service review, billing resolution, and retention incentive within 48 hours."
+1137,Recent low satisfaction (4/10) and repeated support contacts indicate frustration. Late payment suggests financial stress or service dissatisfaction. Multiple risk factors converging.,Call customer within 24 hours to understand core issue and offer service credit or plan adjustment.
+1123,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1069,"Some risk signals present (satisfaction, support tone, switching intent, billing), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1034,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1157,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1093,"Some risk signals present (satisfaction), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1172,"Some risk signals present (support tone, switching intent, billing), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1178,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1167,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1033,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1175,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1010,"Some risk signals present (switching intent, billing), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1088,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1037,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1059,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1166,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1026,"Some risk signals present (satisfaction), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1100,"Some risk signals present (support tone, switching intent, billing), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1046,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1023,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1024,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1007,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive check-in
+1164,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1149,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1121,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1104,"Some risk signals present (switching intent, billing), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1158,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1114,"Some risk signals present (satisfaction, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1148,"Some risk signals present (billing), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1047,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1109,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1032,Moderate risk signals present but none individually concerning.,"Monitor - no immediate action required, revisit if signals increase."
+1180,"Some risk signals present (satisfaction, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1139,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1036,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1081,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1145,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1028,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1135,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1055,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1017,"Some risk signals present (satisfaction, support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1119,"Some risk signals present (satisfaction, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1163,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1170,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1103,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1122,"Some risk signals present (support tone), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1008,"Some risk signals present (support tone, switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1147,"Some risk signals present (satisfaction), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1074,Moderate risk signals present but none individually concerning.,"Monitor - no immediate action required, revisit if signals increase."
+1025,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1124,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1056,"Some risk signals present (support tone), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1027,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1113,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1068,"Some risk signals present (satisfaction), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1112,"Some risk signals present (switching intent), below the threshold for escalation.","Monitor - no immediate action required, revisit if signals increase."
+1151,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1169,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1141,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1044,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1133,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1066,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1003,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1096,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1155,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1082,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1132,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1144,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1094,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1080,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1022,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1097,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1130,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1107,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1020,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1064,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1168,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1162,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1040,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1015,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1041,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1012,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1073,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1018,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1001,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1086,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1134,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1061,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1004,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1159,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1098,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1161,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1092,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1016,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1051,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1057,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1111,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1108,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1128,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1140,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1136,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1087,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1060,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1173,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1129,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1035,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1179,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1085,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1177,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1065,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1142,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1120,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1152,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1127,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1030,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1102,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive check-in
+1072,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1091,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1019,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive check-in
+1013,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive check-in
+1043,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1174,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1005,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1079,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1083,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1125,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1110,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1095,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1089,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive CSAT outreach
+1011,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive check-in
+1054,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1116,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
+1150,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive CSAT outreach
+1160,Insufficient signal for a confident assessment.,Insufficient signal for confident assessment - recommend proactive CSAT outreach
+1165,Stable - no significant concerns across available signals.,No action needed - continue standard engagement.
